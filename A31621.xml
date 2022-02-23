@@ -1,0 +1,1258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few queries relating to the practice of physick with remarks upon some of them : modestly proposed to the serious consideration of mankind, in order to their information how their lives and healths (which are so necessary, and therefore ought to be dear to them) may be better preserved / by H. Chamberlen ...</title>
+            <author>Chamberlen, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 106 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31621</idno>
+            <idno type="STC">Wing C1873</idno>
+            <idno type="STC">ESTC R39949</idno>
+            <idno type="EEBO-CITATION">18570741</idno>
+            <idno type="OCLC">ocm 18570741</idno>
+            <idno type="VID">108041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108041)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1647:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few queries relating to the practice of physick with remarks upon some of them : modestly proposed to the serious consideration of mankind, in order to their information how their lives and healths (which are so necessary, and therefore ought to be dear to them) may be better preserved / by H. Chamberlen ...</title>
+                  <author>Chamberlen, Hugh.</author>
+               </titleStmt>
+               <extent>[2], 122, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 122.</note>
+                  <note>Imperfect: p. 33-34 torn with loss of print. Best copy available for photographing.</note>
+                  <note>Reproduction of original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Medicine --  Practice --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108041:1"/>
+            <pb facs="tcp:108041:1" rendition="simple:additions"/>
+            <p>A FEW QUERIES Relating to the Practice of Phyſick, WITH Remarks upon ſome of them.</p>
+            <p>Modeſtly propoſed to the ſerious Conſideration of MANKIND, IN Order to their Information how their LIVES and HEALTHS (which are ſo neceſſary, and therefore ought to be dear to them) may be better pre<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>By <hi>H. Chamberlen,</hi> Phyſician in Or<g ref="char:EOLhyphen"/>dinary to the late King <hi>Charles</hi> the II.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the Meeting Houſe in <hi>White-hart-court</hi> in <hi>Gracious-ſtreet,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108041:2"/>
+            <pb n="1" facs="tcp:108041:2"/>
+            <head>A FEW QUERIES Relating to the Practice of Phyſick, WITH Remarks upon ſome of them. Modeſtly propoſed to the ſerious Conſideration of Mankind, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>Q</hi> 1. <hi>WHether every Sickneſs and indiſpoſition in humane Bodies, as well Acute as Chronical, doth not ariſe from the change of uſeful, nutrimental,
+<pb n="2" facs="tcp:108041:3" rendition="simple:additions"/> and natural humours into vitious; and whether ſuch change is not chiefly, if not only cauſed by an Error of ſome of the ſix Non-naturals in the ſick Patient; or, if Hereditary, in their Parents?</hi>
+            </p>
+            <p>The Author is inclin'd to believe, that all Diſeaſes proceed only from the alteration of Good Humours into Bad; for all Perſons may enjoy per<g ref="char:EOLhyphen"/>fect Health, if ſome change within them did not hinder. Nor doth it appear to this Author, that any other entrance for Diſeaſes hath been an<g ref="char:EOLhyphen"/>ciently or lately diſcovered, beſides the ſaid ſix Non-naturals, which are agreed to be as Follows, 1. Air, 2. Meat and Drink, 3. Motion and Reſt, 4. Sleep and Watching, 5. Ex<g ref="char:EOLhyphen"/>cretion and Retention, and laſtly, the Paſſions of the Mind. Under ſome of which, as Excretion and Retenti<g ref="char:EOLhyphen"/>on, may be juſtly comprehended, Stinging, Bruiſing, Wounding, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">
+               <pb n="3" facs="tcp:108041:3"/>2. <hi>Whether Sickneſs, or that preter<g ref="char:EOLhyphen"/>natural Something, thus introduced, can ever be removed, till ſuch vitiated Humours ſhall be either changed again into good, or expell'd the Body?</hi>
+            </p>
+            <p>If there is a third way to free Pa<g ref="char:EOLhyphen"/>tients from Diſeaſes, beſides Evacu<g ref="char:EOLhyphen"/>ation and Alteratives; ſuch as know it, will do well to oblige the World with it.</p>
+            <p n="3">3. <hi>Whether theſe bad Humours can be any more altered and reduced to their primitive Excellence and Order, than Curds and Whey can be reduced again to good ſweet Milk?</hi>
+            </p>
+            <p>If this be impoſſible, as the Author is apt to believe it is; then 'twill be in vain to hope for the recovery of Health by Alteratives: For, though the Body and Blood can be alter'd by ſuperinducing natural Juices, as the bad waſts, yet the bad parts of the Blood, or the ill Humors mixt with it, can never be changed to any good
+<pb n="4" facs="tcp:108041:4"/> purpoſe. And that which probably deludes ſome into a contrary Opinion, is, that when Health is reſtored by in<g ref="char:EOLhyphen"/>ſenſible Perſpiration or Evacuation by Urine, <hi>&amp;c.</hi> without any more manifeſt diſcharge by Siege Sweat or Vomit<g ref="char:EOLhyphen"/>ing: Tis preſumed though it be no natural conſequence that the ſame individual bad Humours are totally changed into Good, for life being a continual Flux, daily waſting and requiring daily ſupply, 'tis not to be doubted, but, as the bad are conſum<g ref="char:EOLhyphen"/>ed, Nature is daily furniſhed with a better Juice from wholeſome Food; ſo that the bad decaying (which is a ſort of Evacuation) faſter than they are again recruited, Health re<g ref="char:EOLhyphen"/>turns of courſe after all the vitious Humours have been ſo conſumed. But there hath been farther objected againſt this Opinion, that Pleuriſies have been ſometimes cured by Altera<g ref="char:EOLhyphen"/>tives only, without Bleeding or o<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:108041:4" rendition="simple:additions"/> manifeſt Evacuation; and that prickt and decay'd Wines have been alſo recovered from their Acidity, <hi>&amp;c.</hi> by Alteratives: In anſwer to which may be offer'd to ſecond Con<g ref="char:EOLhyphen"/>ſideration, that <hi>Non cauſa pro cauſa</hi> hath made many, if not moſt of the miſtakes in the World, and this pro<g ref="char:EOLhyphen"/>bably amongſt the reſt: For 'tis not unlikely, but that ſuch Pleuriſies were cured, either by Evacuation, though leſs manifeſt, as by Urine or inſenſi<g ref="char:EOLhyphen"/>ble Perſpiration; or elſe by precipi<g ref="char:EOLhyphen"/>tation or depoſiting the peccant mat<g ref="char:EOLhyphen"/>ter on a leſs noble part, ſeparating thereby the Humours from their Im<g ref="char:EOLhyphen"/>purities: For, if the whole Maſs of Blood had been corrupted, it had been impoſſible to mend it, and the Patient muſt have died; becauſe in this acute Diſeaſe <hi>Non dantur induciae.</hi> And, when there is only a Separation from the Blood of the corrupted Hu<g ref="char:EOLhyphen"/>mours mixt with it, without any ex<g ref="char:EOLhyphen"/>pulſion,
+<pb n="6" facs="tcp:108041:5" rendition="simple:additions"/> it can be but a truce, or ſhifting off the preſent inconvenience, and no cure; a kind of purging the Blood, but not the whole Body, which ſtill remains affected, though poſſibly not after the ſame manner.</p>
+            <p>As to the Wines 'tis certain, that the greateſt part of them was no o<g ref="char:EOLhyphen"/>therwiſe Acid, than Water made ſo with a few drops of <hi>Spirit of Vitriol,</hi> which are ſometimes cured by an <hi>Al<g ref="char:EOLhyphen"/>kali,</hi> or by the heavy parts ſetling by their own weight to the Bottom, as new River-water is purified when Muddy; and ſometimes by the help of a Ferment as in compound Li<g ref="char:EOLhyphen"/>quors, where the lighter parts flying upward, becoome a Cap or Head, as they call it, on the top to preſerve the Liquor, and the heavier parts are precipitated to the Bottom, leaving the Wine pure and ſound in the Mid<g ref="char:EOLhyphen"/>dle; but this change is no other, but a Separation of the Acid or Noxious
+<pb n="7" facs="tcp:108041:5" rendition="simple:additions"/> parts from the reſt of the Wine, which (the Cask ſtill retaining all the hurtful parts within it, as before, though not in the ſame manner and mixture) will upon every the leaſt diſturbance be again out of Order.</p>
+            <p n="4">4. <hi>Whether 'tis poſſible Health can be reſtored by any other means than Eva<g ref="char:EOLhyphen"/>cuation only, either by a natural Criſis, or by Art?</hi>
+            </p>
+            <p>Such as grant the Premiſes can ne<g ref="char:EOLhyphen"/>ver diſpute this Point; but the fol<g ref="char:EOLhyphen"/>lowing inſtance, amongſt many o<g ref="char:EOLhyphen"/>thers, that might have been quoted, may end the Controverſie, <hi>viz.</hi> Pa<g ref="char:EOLhyphen"/>tients recovering out of the Small Pox, where no Art was made uſe of, might have been ſaved only by a criti<g ref="char:EOLhyphen"/>tal Expulſion of all the peccant mat<g ref="char:EOLhyphen"/>ter through the ſtrength of Nature. And, whenever that matter recoils, or is ſtruck back, and not afterwards ſufficiently expell'd by Nature, the Patient muſt die, if Art doth not aſſiſt
+<pb n="8" facs="tcp:108041:6" rendition="simple:additions"/> to drive it out by Sweat or otherwiſe.</p>
+            <p n="5">5. <hi>Whether when Poiſon is received into the Body, there are not very few, if any, that dreams of curing ſuch a Pati<g ref="char:EOLhyphen"/>ent by only Alteratives? And whether they do not rather unanimouſly agree to expel it by all the skilful ways, and with all the ſpeed poſſible?</hi>
+            </p>
+            <p>If this be daily practice, as the Au<g ref="char:EOLhyphen"/>thor doubts not, the ſame reaſon may hold for Diſeaſes, which are as truly Poiſons bred in the Body, as the o<g ref="char:EOLhyphen"/>ther that is taken inwardly, and eve<g ref="char:EOLhyphen"/>ry way as Dangerous: And as there are degrees of Poiſon, ſo there are of Diſeaſes, ſome more ſome leſs inju<g ref="char:EOLhyphen"/>rious or mortal; but, ſtill all muſt be expell'd ſooner or later, the Weaker as well as the Stronger.</p>
+            <p n="6">6. <hi>Whether in a ſtrict ſenſe there is any ſuch thing as Poiſon?</hi>
+            </p>
+            <p>Some ſay <hi>Van Helmont</hi> was of Opi<g ref="char:EOLhyphen"/>nion there was not, and the Author ſees no cauſe to differ from him; for,
+<pb n="9" facs="tcp:108041:6"/> God made all things good and uſe<g ref="char:EOLhyphen"/>ful to Mankind, but our folly, and ignorance of the right uſe and juſt Doſe of many things, makes their ex<g ref="char:EOLhyphen"/>ceſs Dangerous and ſometimes Mor<g ref="char:EOLhyphen"/>tal: Even Roaſt-beef, Brandy and Opium in too large Doſes ſurfeit and kill, when Arſenick and Precipitate, if juſtly doſed or under doſed, do no hurt, but many times much good. Now that hath only been eſteem'd Poiſon, which can kill in ſmall quan<g ref="char:EOLhyphen"/>tities, and not that which can only kill in great, though they were equal<g ref="char:EOLhyphen"/>ly injurious to the Perſons kill'd by them; nor is there any great diffe<g ref="char:EOLhyphen"/>rence betwixt Poiſon bred in or re<g ref="char:EOLhyphen"/>ceived into the Body, when equally hurtful, both being preternatural, and to be expell'd, before the Patient can be ſafe.</p>
+            <p n="7">7. <hi>Whether it is not abſolutely ne<g ref="char:EOLhyphen"/>ceſſary for a Phyſician to be able to de<g ref="char:EOLhyphen"/>termine skillfully, with reſpect to Pa<g ref="char:EOLhyphen"/>tients,
+<pb n="10" facs="tcp:108041:7" rendition="simple:additions"/> Diſeaſe, Age, Strength and Sex, what Evacuation is moſt ſuitable as to Manner, Seaſon, Quantity, and Num<g ref="char:EOLhyphen"/>ber?</hi>
+            </p>
+            <p>
+               <hi>Hipocrates</hi> ſay, <hi>Quo natura tendit tinde, dum Natura movet move,</hi> and if Evacuation only cures, 'tis fit it ſhould be well underſtood.</p>
+            <p n="8">8. <hi>Whether a Phyſician who treats his Patient with as much Art and Dili<g ref="char:EOLhyphen"/>gence as any other could, omitting no<g ref="char:EOLhyphen"/>thing requiſite, nor directing any thing hurtful or unneceſſary, may juſtly be blamed, ſhould ſuch a Patient miſcarry by ſome unexpected dangerous accident, lurking in ſecret beyond any Mans diſ<g ref="char:EOLhyphen"/>covery?</hi>
+            </p>
+            <p>Whenever the like happens, the Phyſician ought not to be blamed, becauſe it was not his Fault but his Misfortune, and not within the pow<g ref="char:EOLhyphen"/>er of any known Art to be prevented; for, no Man blames a skillful and in<g ref="char:EOLhyphen"/>duſtrious Husbandman, becauſe (af<g ref="char:EOLhyphen"/>ter
+<pb n="11" facs="tcp:108041:7" rendition="simple:additions"/> he hath cultivated his Land with all the Care and Art imagi<g ref="char:EOLhyphen"/>nable) his Hopes are blaſted, and his Crop deſtroyed by an unexpected ill Seaſon. Hence may be obſerved, that good or ill ſucceſs alone is not ſufficient to guide our Judgments, but that we muſt ſuſpend our Cen<g ref="char:EOLhyphen"/>ſures till well inſtructed in e<g ref="char:EOLhyphen"/>very minute circumſtance; for the interpoſition of ſundry Ac<g ref="char:EOLhyphen"/>cidents, not always to be fore<g ref="char:EOLhyphen"/>ſeen, may much alter the Caſe; nor muſt a Phyſician by ſuch ac<g ref="char:EOLhyphen"/>cidents be frightned into too ſtrict caution, which may be as preju<g ref="char:EOLhyphen"/>dicial as too forward Raſhneſs. <hi>He that regardeth the Wind,</hi> ſaith <hi>Solomon, ſhall never Sow;</hi> and though all that may happen, deſerves mature conſideration;
+<pb n="12" facs="tcp:108041:8" rendition="simple:additions"/> yet if that ſhould hinder Action, Phyſicians muſt reſolve to ſit ſtill, or do no good. General ſucceſs in like difficult caſes, may direct our judgment, though 'tis not adviſable to be too forward to cenſure the ſucceſs of Phyſicians or their Methods, without being very well acquainted with both, leaſt it prove not only injurious to them, but very prejudicial to ſuch as might have received be<g ref="char:EOLhyphen"/>nefit from them, had it not been for ſuch Scandalous, Fooliſh, or falſe Reports, which may ſome<g ref="char:EOLhyphen"/>times unintended injure the re<g ref="char:EOLhyphen"/>porters Friends as well as others. No Phyſician is to be blamed when his Patient dies, unleſs his own greater care, or anothers bet<g ref="char:EOLhyphen"/>ter skill could have prevented it.</p>
+            <p n="9">
+               <pb n="13" facs="tcp:108041:8"/>9. <hi>Whether any Patient who is likely to live without purging can be too weak to be relieved by Evacuati<g ref="char:EOLhyphen"/>on? Since, as before proved, no re<g ref="char:EOLhyphen"/>lief can be reaſonably expected with<g ref="char:EOLhyphen"/>out it: And whether the ſooner 'tis ſubmitted to, it is not the better?</hi>
+            </p>
+            <p>If they are able to live with<g ref="char:EOLhyphen"/>out artificial Relief, and removing their Diſeaſe, they will certain<g ref="char:EOLhyphen"/>ly be much more ſo, if part of, or all their Diſeaſe ſhall be remov<g ref="char:EOLhyphen"/>ed; <hi>obſta principijs, ſero medicina paratur,</hi> is a known rule and very fit to be followed.</p>
+            <p n="10">10. <hi>Whether Patients, too weak to be relieved by proper Evacuati<g ref="char:EOLhyphen"/>on, can be ſtrong enough to recover Health without it?</hi>
+            </p>
+            <p>It is not likely, becauſe that Diſeaſe which hath reduced them from full ſtrength to ſo low a
+<pb n="14" facs="tcp:108041:9" rendition="simple:additions"/> degree of weakneſs, muſt cer<g ref="char:EOLhyphen"/>tainly if it continues, increaſe the weakneſs, if not deſtroy the Pa<g ref="char:EOLhyphen"/>tient; but, if Purging carries off moſt part of the Diſeaſe, which weakens the Patient, Nature hath the leſs to contend with, and conſequently may maſter the remainder, and recover ſtrength: Therefore a Patient's weakneſs can be no ſufficient argument a<g ref="char:EOLhyphen"/>gainſt Evacuation, unleſs the Diſ<g ref="char:EOLhyphen"/>eaſe be already quite expelled by Nature, and then there may be no need of it. For a thinking Soldier will hardly ever judge his condition the worſe for having the numbers of his Enemies leſ<g ref="char:EOLhyphen"/>ſened, let the ſucceſs be good or bad.</p>
+            <p n="11">11. <hi>Whether the moſt powerful and effectual Evacuations, by ſome
+<pb n="15" facs="tcp:108041:9" rendition="simple:additions"/> called violent, are not when diſ<g ref="char:EOLhyphen"/>creetly uſed, the moſt proper for the weakeſt Patients, and to be perſiſted in with the ſmalleſt Intervals of reſt.</hi>
+            </p>
+            <p>Certainly they are, and to be continued, if weak Patients have little or no time to triflle away. The Fatal conſequences of timo<g ref="char:EOLhyphen"/>rous and needleſs delays ought by all means to be prevented, and Diſeaſes not ſuffer'd to increaſe again by long reſpits, as they as certainly do, as Hair and Nails grow after cutting. If indeed ſtrong Patients ſquander away ſome time, they have ſtill enough left with ſtrength to recover ſuch loſs; though ſuch hazards are never commendable; for ſeeming weak Diſeaſes have by delays at length kill'd the ſtrongeſt Pa<g ref="char:EOLhyphen"/>tients, and where Life and Health
+<pb n="16" facs="tcp:108041:10" rendition="simple:additions"/> are concern'd, nothing ought to be put to an Adventure. The Doſes are to be proportioned to the weakneſs of Patients, but the Indication is ſtill the ſame: For Example, if nothing beſides a Vomit can cure ſome Diſeaſes, the Vomit muſt be taken in a ſmaller Doſe, than robuſt Pati<g ref="char:EOLhyphen"/>ents do, or the Sick Perſon muſt die.</p>
+            <p n="12">12. <hi>Whether the loſs of Strength, occaſioned by Diſeaſes, can be ever reſtored whilſt the Diſeaſe continues in the ſame Vigour? And whether weakneſs proceeding from the Opera<g ref="char:EOLhyphen"/>tions of Evacuating Remedies, doth not uſually ceaſe ſoon after the Ope<g ref="char:EOLhyphen"/>ration is over?</hi>
+            </p>
+            <p>Effects alwaies wait upon their Cauſes, <hi>ablata cauſa tollitur effe<g ref="char:EOLhyphen"/>ctus,</hi> and where no impediment
+<pb n="17" facs="tcp:108041:10" rendition="simple:additions"/> hinders, Nature ſoon recovers Strength.</p>
+            <p n="13">13. <hi>Whether ſimple weakneſs be<g ref="char:EOLhyphen"/>ing only an impotency or incapacity of Nature to perform the neceſſary duties of Body and Mind, and al<g ref="char:EOLhyphen"/>waies free from any ſort of Sickneſs, Fever, or Pains, elſe it muſt be more than ſimple weakneſs, may not be removed by good Diet only?</hi>
+            </p>
+            <p>Probably it may.</p>
+            <p n="14">14. <hi>Whether a weak Patient may not as well hope to recover his perfect Health without Evacua<g ref="char:EOLhyphen"/>tion, as that he ſhall grow ſtronger under his Diſeaſe without it?</hi>
+            </p>
+            <p>Neither is very probable, and therefore tis imprudent to ven<g ref="char:EOLhyphen"/>ture it. That ſome recover with<g ref="char:EOLhyphen"/>out Art, 'tis certain, but very many do die for want of it, who might very well have been ſaved
+<pb n="18" facs="tcp:108041:11"/> by it, if they had timely applied themſelves to Artiſts.</p>
+            <p n="15">15. <hi>Whether the benefit a Pati<g ref="char:EOLhyphen"/>ent afterwards receives by expelling with artificial Evacuation the mor<g ref="char:EOLhyphen"/>bifique matter, doth not abundantly compenſate his preſent loſs of Strength and Spirits?</hi>
+            </p>
+            <p>This is daily confirmed in Pa<g ref="char:EOLhyphen"/>tients, that, though they are weakned for the preſent by eve<g ref="char:EOLhyphen"/>ry ſort of artificial Evacuation, ſoon after find ſenſible relief and great eaſe. <hi>Ex conferentibus &amp; laedentibus ſumuntur indicationes.</hi>
+            </p>
+            <p n="16">16. <hi>Whether Patients are not more ſtrengthened by a purge which expells the Diſeaſe which weakens, than by Cordials which do not.</hi>
+            </p>
+            <p>That which removes the weak<g ref="char:EOLhyphen"/>neſs is more likely to ſtrengthen than that which cannot. <hi>Im<g ref="char:EOLhyphen"/>pura
+<pb n="19" facs="tcp:108041:11" rendition="simple:additions"/> Corpora quo magis nutrieris eo magis laeſeris.</hi> The moſt which can be expected from Cordials, which do not empty by Sweat or Urine, is a ſpeedier ſupply of Spirits to encounter the Diſeaſe: though too many of them, as well as of nouriſhing Diet, may ſooner ſurfeit and deſtroy than comfort: And 'tis certainly much better to ſave the Spirits that la<g ref="char:EOLhyphen"/>bour and remove the Diſtemper by Evacuation; for fewer Spirits can better vanquiſh a Diſeaſe al<g ref="char:EOLhyphen"/>moſt maſter'd, than greater plen<g ref="char:EOLhyphen"/>ty can a Diſeaſe too mighty for them. Nor is there any Reaſon, why Purges and other Evacuati<g ref="char:EOLhyphen"/>ons ſhould be ſo terrible, for they are but a kind of ferment given to awaken Nature to co<g ref="char:EOLhyphen"/>operate. Where violent Exer<g ref="char:EOLhyphen"/>ciſe
+<pb n="20" facs="tcp:108041:12" rendition="simple:additions"/> Weakens, reſt and moderate re<g ref="char:EOLhyphen"/>freſhment Strengthens; but where Diſeaſes weaken nothing but their total removal can give Na<g ref="char:EOLhyphen"/>ture afterwards an opportunity to be ſtrengthned by a good Di<g ref="char:EOLhyphen"/>et, which can ſignifie little or nothing before.</p>
+            <p n="17">17. <hi>Whether the inactivity, want or diſſipation of Spirits, which renders Men dull, weak and faint, doth not proceed either from the Spirits being clog'd with preterna<g ref="char:EOLhyphen"/>tural humours for want of due ex<g ref="char:EOLhyphen"/>erciſe, or from an unuſual expenſe of Natural Humours and Animal Spirits; either exhaled by unſeaſon<g ref="char:EOLhyphen"/>able Hot-weather, or conſumed by tedious labour or violent exerciſe, or laſtly waſted by large preternatural, or imprudent Artificial Evacuati<g ref="char:EOLhyphen"/>ons?</hi>
+            </p>
+            <pb n="21" facs="tcp:108041:12" rendition="simple:additions"/>
+            <p>All Weakneſs or Faintneſs without queſtion comes by the want or oppreſſion of Spirits, which cannot alwaies without help extricate or exert themſelves when fettered or ſuffocated with ill humours; nor can they con<g ref="char:EOLhyphen"/>tinue, if not daily ſupplied and increaſed by good Humours, which often corrupt for want of ſuitable Exerciſe, therefore a Pa<g ref="char:EOLhyphen"/>tient muſt neceſſarily be faint without new ſupplies, when his Spirits have been waſted by any of the forementioned ways.</p>
+            <p n="18">18. <hi>Whether any Patient can be either too old or too young, any more than too weak or too ſtrong to uſe Evacuations, whenever there is occaſion for them?</hi>
+            </p>
+            <p>Surely none can, for if Pati<g ref="char:EOLhyphen"/>ents too old or young may be
+<pb n="22" facs="tcp:108041:13" rendition="simple:additions"/> cured without Evacuating Me<g ref="char:EOLhyphen"/>dicines, Perſons in their prime may alſo be ſo cured, and then away with the Profeſſion; but if they cannot, 'tis not a tender<g ref="char:EOLhyphen"/>neſs but a cruelty to refuſe them; beſides they can but die with E<g ref="char:EOLhyphen"/>vacuation, and may live, having a chance for it; when without it in all probability they muſt die. <hi>Praeſtat anceps remedium quam nul<g ref="char:EOLhyphen"/>lum; extremis morbis extrema re<g ref="char:EOLhyphen"/>media conveniunt.</hi>
+            </p>
+            <p n="19">19. <hi>Whether the ſpeedieſt way to reſtore ſtrength and fleſh to Patients exhauſted and emaciated by long Sickneſs, is not to forbid them ſtrong nouriſhing Food, and order them a ſpare plain Diet, to uſe ex<g ref="char:EOLhyphen"/>erciſe and to be cheerful.</hi>
+            </p>
+            <p>If this proves the beſt Method, then certainly the common pra<g ref="char:EOLhyphen"/>ctice
+<pb n="23" facs="tcp:108041:13" rendition="simple:additions"/> of the kind Ladies and Nurſe-keepers, to ſtuff the Sick with ſtrong Broths, and good Jellies, muſt needs be deſtructive. It is for the moſt part good things only hurt; becauſe they being agreeable and very nouriſhing, ſoon ſurfeit before one is aware.</p>
+            <p n="20">20. <hi>Whether, if no Specifick, Cordial, or Alterative Medicine can relieve ſick Patients, and expell their Diſeaſes ſo well as Vomits, Purges, or other Evacuations, any Perſon may be too weak to take them; and whether 'tis fit any Patient, though never ſo ſtrong, ſhould be treated with them, if they can only weaken and diſorder and can do no more, or not ſo much as the other Remedies?</hi>
+            </p>
+            <p>If in this laſt part 'tis true that Vomits, <hi>&amp;c.</hi> can do no good but trouble and offend a Patient,
+<pb n="24" facs="tcp:108041:14"/> then all Phyſicians are highly to blame, that have ever preſcri<g ref="char:EOLhyphen"/>bed Evacuations; but, there are Millions of inſtances to prove, that Evacuations diſcreetly or<g ref="char:EOLhyphen"/>der'd have not only done no wrong, but abundance more good, than all other Remedies; for there cannot be one Example given, from the beginning of the World to this day, of any one Patient, that ever recovered with<g ref="char:EOLhyphen"/>out ſome ſort of Evacuation Na<g ref="char:EOLhyphen"/>tural or Artificial, the contrary being a contradiction in Nature not to be ſuppoſed.</p>
+            <p n="21">21. <hi>Whether Vomits, or any o<g ref="char:EOLhyphen"/>ther evacuating Remedies have of<g ref="char:EOLhyphen"/>ten, if ever, cauſed or haſtned the Death of any Patient; or rather whether 'tis not always, or at leaſt for the moſt part Diſeaſes, which,
+<pb n="25" facs="tcp:108041:14"/> for want of Vomits,</hi> &amp;c. <hi>ſoon e<g ref="char:EOLhyphen"/>nough or oft enough repeated, deſtroy Mankind?</hi>
+            </p>
+            <p>That thouſands of Vomits, and other Evacuations have been gi<g ref="char:EOLhyphen"/>ven in all Caſes, to all Ages and Sexes, not only without hurt, but alſo with much benefit, is as clear as the Sun, and alſo that Diſ<g ref="char:EOLhyphen"/>eaſes daily kill without the help of Medicine. Such therefore, as maintain the contrary, will do well to ſhew which way Vomits or other Evacuations kill, but, unleſs he can prove that he hath kill'd as many by Vomits and Purges, as others can prove, they have ſaved by them, he will do well to ſpare his labour. Note alſo that there can be no more danger, nor greater ſickneſs in vomiting with a Vomit, than
+<pb n="26" facs="tcp:108041:15"/> without one; which few Wo<g ref="char:EOLhyphen"/>men with Child, and very ſick Perſons can avoid or are the worſe for.</p>
+            <p n="22">22. <hi>Whether 'tis not very true, that moſt die without taking Vo<g ref="char:EOLhyphen"/>mits, tho ſome may die that have taken them?</hi>
+            </p>
+            <p>This few, if any will deny.</p>
+            <p n="23">23. <hi>Whether any dies with a Vo<g ref="char:EOLhyphen"/>mit, who could probably have lived longer without it?</hi>
+            </p>
+            <p>This ſome may believe, but 'twill be a great ſervice to Man<g ref="char:EOLhyphen"/>kind if they can well prove it.</p>
+            <p n="24">24. <hi>Whether very many have not died for want of Vomits, who had moſt certainly remained alive, if they had taken them?</hi>
+            </p>
+            <p>This can never be proved, but may be ſtrongly preſumed.</p>
+            <p n="25">25. <hi>Whether 'tis not the cauſe or morbiſick matter ſtill remaining be<g ref="char:EOLhyphen"/>hind,
+<pb n="27" facs="tcp:108041:15" rendition="simple:additions"/> which is dangerous, protracts the Diſeaſe, or haſtens the death of the Patient, and neither natural nor artifical Vomiting, Looſneſs, nor other Flux, nor Boils, Pimples, nor other Eruptions whatſoever?</hi>
+            </p>
+            <p>Few ſuffer by what breaks forth or is Evacuated, but by that which remains behind.</p>
+            <p n="26">26. <hi>Whether, if Vomits muſt be given, when there are indications for them, and no conſiderable con<g ref="char:EOLhyphen"/>traindications, they ought not alſo to be repealed, whilſt the indication ſo circumſtantiated continues, ſup<g ref="char:EOLhyphen"/>porting Nature in the intervals by true Cordials and good Nouriſh<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>The ſame reaſon which directs a Vomit at firſt, directs repetiti<g ref="char:EOLhyphen"/>ons whilſt it continues with rea<g ref="char:EOLhyphen"/>ſonable intervals, if nothing new appears to prohibit it.</p>
+            <p n="27">
+               <pb n="28" facs="tcp:108041:16"/>27. <hi>Whether (though Vomits are ſo very uneaſie in their Operation as to make Patients to apprehend them very dangerous) there is really any more danger in taking them, than in taking a Caudle or a Cordial?</hi>
+            </p>
+            <p>There is oft-times greater dan<g ref="char:EOLhyphen"/>ger in forbearing, than in taking Vomits, becauſe the Diſeaſe may kill, which they may poſſibly o<g ref="char:EOLhyphen"/>vercome; but to anſwer directly, the uſual Vomits unleſs over Do<g ref="char:EOLhyphen"/>ſed, (which is no more than where any other Medicine is ſo, and therefore not to be ſuppoſed to be given by any Phyſician, though of ſmall Experience,) are not dan<g ref="char:EOLhyphen"/>gerous, for neither the material they are made of is inimical to Nature, nor the action of Vomit<g ref="char:EOLhyphen"/>ing dangerous; for what muſt
+<pb n="29" facs="tcp:108041:16"/> then become of moſt Sick Per<g ref="char:EOLhyphen"/>ſons, Women with Child and even New-born Babes, who are all generally inclin'd to and fre<g ref="char:EOLhyphen"/>quently do Vomit? Indeed Vo<g ref="char:EOLhyphen"/>mits are ſo ſafe, and generally ſo effectual, that many pretenders to Phyſick, cheriſh theſe terrible apprehenſions of them in their Patients to diſcourage them from their uſe, that ſo they may keep them the longer in hand, before they will be cured.</p>
+            <p n="28">28. <hi>Whether Purging, Vomit<g ref="char:EOLhyphen"/>ing, or other Evacuations, uſually called Violent, can be ever ſo dan<g ref="char:EOLhyphen"/>gerous and uneaſie, as Diſeaſes are firſt and laſt, or as ineffectual gen<g ref="char:EOLhyphen"/>tle Medicines and Methods are?</hi>
+            </p>
+            <p>That is, no Phyſick, judici<g ref="char:EOLhyphen"/>ouſly given, can be ſo dangerous as the Diſeaſe, which gentle and
+<pb n="30" facs="tcp:108041:17"/> ineffectual Remedies can never leſſen nor vanquiſh; and that which makes them eſteemed vio<g ref="char:EOLhyphen"/>lent is the Uneaſineſs, Sickneſs, and Gripings in their Operation, which is effected by only moving the vitious humours, cauſe of the Sickneſs, and therefore ought to be courted and not avoided, ſince Health cannot be purchaſed at a cheaper Rate, or without more uncertainty and longer time.</p>
+            <p n="29">29. <hi>Whether too long intervals of time, betwixt the repeating Eva<g ref="char:EOLhyphen"/>cuations, loſeth not many lives?</hi>
+            </p>
+            <p>Moſt likely; for the Diſeaſe recovers in thoſe ſpaces as much or more ſtrength and vigour, than it loſt by the preceeding Evacuations; but, if indeed Diſ<g ref="char:EOLhyphen"/>eaſes could have their Progreſs ſtopt the while, there might be
+<pb n="31" facs="tcp:108041:17" rendition="simple:additions"/> ſome pretence for a delay till the Patient recovered ſtrength; but they having once gotten an exi<g ref="char:EOLhyphen"/>ſtence, do daily draw to themſelves Humours for their ſupport. Thus we plainly ſee Corns and Warts to continue and increaſe many years, and ſo do ſeveral other Diſeaſes for their time, though not ſo apparently.</p>
+            <p n="30">30. <hi>Whether the Stomach is not originally, or by Sympathy with ſome other part of the Body affected in moſt Diſtempers? And whether therefore all cures ought not to be be<g ref="char:EOLhyphen"/>gun there?</hi>
+            </p>
+            <p>Whilſt the offending matter is in the Stomach, and <hi>primae viae,</hi> 'tis much the better and ſhorter way to expell it by Vomits or Purges, than to drive it through all the Meanders of the Body out by the
+<pb n="32" facs="tcp:108041:18" rendition="simple:additions"/> Pores. Indeed, where it hath left the <hi>primae vivae</hi> wholly, and is entred or paſt the Blood, the ſafeſt way may be to protrude it by ſweat; though as long as there are any remains in the Stomach, notwithſtanding part is already paſt beyond, Vomits and Purges are moſt proper and beneficial, and ought to precede Bleeding and Sweating, becauſe, if the firſt region is not well clean<g ref="char:EOLhyphen"/>ſed the others muſt continue foul; as no Ciſtern can run clear which comes from a muddy Spring, nor can you clean an inner Room without fouling again the out<g ref="char:EOLhyphen"/>ward Room, having imprudent<g ref="char:EOLhyphen"/>ly cleaned the outward firſt; for every part of the Body derives its Nouriſhment originally from the Stomach, and an Errour com<g ref="char:EOLhyphen"/>mitted
+<pb n="33" facs="tcp:108041:18" rendition="simple:additions"/> there can never after be corrected in any other part; but by ſending forth thoſe peccant Humours by the Pores, though their groſs parts can never paſs them eaſily, but may lodge by the way among the ſmall Veſſels and cauſe Obſtructions.</p>
+            <p n="31">31. <hi>Whether, if Patients re<g ref="char:EOLhyphen"/>fuſe to continue under cure, and to purſue Directions till the Diſeaſe ſhall be ſubdued, it is not probable it will return again?</hi>
+            </p>
+            <p>If ſo, then Remedies are not to be neglected, till Diſe<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall be rooted out, and <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Health reſtored; for <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> natural for Diſeaſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their force, if you <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing before the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for a Boat <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Stream to <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:108041:19" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="33" facs="tcp:108041:19" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="34" facs="tcp:108041:20"/> into it, when you ceaſe to row againſt it without faſtning the Boat.</p>
+            <p n="32">32. <hi>Whether a Fever (being on<g ref="char:EOLhyphen"/>ly a greater heat than ordinary un<g ref="char:EOLhyphen"/>naturally kindled in the blood by the admiſſion of bad humours) ought not rather to be aſſiſted in driving forth ſuch humours, than to be checkt by the Jeſuit's Pouder or the like?</hi>
+            </p>
+            <p>Moſt certainly, if the Fever or Ague Fit is not the Diſeaſe nor <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſe of it, as there is great rea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> believe, but a ſtrife only <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e expulſive Faculty and <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mours, in order to <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sweat, which is <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by Nature only. <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot true, 'tis <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> never re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by the
+<pb n="35" facs="tcp:108041:20"/> ſtrength of Nature without Art. Now, if all or part of thoſe preter<g ref="char:EOLhyphen"/>natural Juices had been carried off by Stool or Vomit, whilſt they continued in the <hi>primae viae,</hi> the Fever had either been quite overcome, or in a great meaſure ſo moderated, that there would have been the leſs work for Na<g ref="char:EOLhyphen"/>ture. The Jeſuit's Pouder ſeems in<g ref="char:EOLhyphen"/>deed to cure an Ague, but oft-times it leaves the Patient in as bad, or a worſe condition of Health than before.</p>
+            <p n="33">33. <hi>Whether 'tis not poſſible for the preſent to extinguiſh, quiet or qualifie the heat of many Fevers long before the Patient recover his per<g ref="char:EOLhyphen"/>fect Health, or even without con<g ref="char:EOLhyphen"/>tributing the leaſt towards it; and whether there doth not then remain matter in the Body like embers ra<g ref="char:EOLhyphen"/>ked
+<pb n="36" facs="tcp:108041:21" rendition="simple:additions"/> together, ready for a relapſe or the production of ſeeming new di<g ref="char:EOLhyphen"/>ſtempers afterwards?</hi>
+            </p>
+            <p>Moſt Fevers are without doubt daily ſo quieted by the Jeſuits Pouder, leaving the Patient ma<g ref="char:EOLhyphen"/>ny times in a worſe condition without the Fever, than before with it. And the new Diſeaſes which after appear, are believed but by few to be the effect of the preceeding ill cured Fever, tho a little patience and care to obſerve may convince them, that there is ſcarce an Ague cured by the Jeſuits Pouder, without pre<g ref="char:EOLhyphen"/>vious or ſubſequent Evacuation, but is ſoon followed by a return of the ſame, or by a ſeeming new Diſtemper; eſpecially Chronical, which had its Original only from the foregoing Ague.</p>
+            <p n="34">
+               <pb n="37" facs="tcp:108041:21"/>34. <hi>Whether 'tis not poſſible with God's bleſſing to prevent the Ra<g ref="char:EOLhyphen"/>ging, Spreading and Progreſs of the Plague, and to ſave many thou<g ref="char:EOLhyphen"/>ſands, who in all probability muſt have elſe died in a Plague Year?</hi>
+            </p>
+            <p>If it were not poſſible, ſuch Magiſtrates as have made reaſon<g ref="char:EOLhyphen"/>able proviſion againſt it, and ſuch Phyſicians, who have by their advice incouraged the Magiſtrates to do ſo, have been very ill em<g ref="char:EOLhyphen"/>ployed; but the poſſibility may be demonſtrated almoſt to a cer<g ref="char:EOLhyphen"/>tainty.</p>
+            <p n="35">35. <hi>Whether 'tis not as much the Magiſtrates Duty as their Pru<g ref="char:EOLhyphen"/>dence to provide againſt the Plague as well as againſt an Enemy upon an approaching War?</hi>
+            </p>
+            <p>Both the Plague and Sword are eſteemed God's Judgments,
+<pb n="38" facs="tcp:108041:22"/> and if it were not lawfull to pro<g ref="char:EOLhyphen"/>vide againſt the Plague, becauſe 'tis a Judgment; for the ſame reaſon we ought to make no pro<g ref="char:EOLhyphen"/>viſion againſt an Enemy; but the laſt is allowed by moſt part of Mankind, and the ſame reaſon juſtifies the former.</p>
+            <p n="36">36. <hi>Whether the many Perſons murthered in Plague Years by Nurſes, or dying for want of Care, Skill, Food, or Aſſiſtance, could not have been ſaved alive by a ſuita<g ref="char:EOLhyphen"/>ble Proviſion?</hi>
+            </p>
+            <p>The Truth of this will not be denied; and though all infected with the Plague were under a ne<g ref="char:EOLhyphen"/>ceſſity of dying as they are not, yet if the above-mentioned might with care be ſaved, they well deſerve it.</p>
+            <p n="37">
+               <pb n="39" facs="tcp:108041:22" rendition="simple:additions"/>37. <hi>Whether moſt infected with the Plague, receive it not from o<g ref="char:EOLhyphen"/>thers?</hi>
+            </p>
+            <p>If this is granted, then a ſea<g ref="char:EOLhyphen"/>ſonable and timely ſeparating the whole from the ſick might ſave them from ſuch infection; ſo that though all infected were in<g ref="char:EOLhyphen"/>curable, all the whole by a pru<g ref="char:EOLhyphen"/>dent and skillful foreſight may probably eſcape the infection and live.</p>
+            <p n="38">38. <hi>Whether moſt of the Cities, infected in theſe</hi> Northern <hi>Coun<g ref="char:EOLhyphen"/>tries, have not the Plague brought to them by infected Perſons or Goods from Abroad, inſtead of receiving it from a peſtilential Air, as ma<g ref="char:EOLhyphen"/>ny Believe?</hi>
+            </p>
+            <p>If it were not communicated by contact, how came it to paſs, that in the laſt great Plague in
+<pb n="40" facs="tcp:108041:23" rendition="simple:additions"/> 
+               <hi>England,</hi> there were fourty Towns infected by Perſons or Goods, known to be brought from <hi>London,</hi> for any one that had neither; and if it proceeded from the Air, 'twas wonderful how <hi>Mortclack</hi> could be ſo much Infected, and <hi>Richmond</hi> and <hi>Barnes,</hi> but a mile on each ſide from it, but very little; beſides Rains and variable Winds, do always cleanſe and change the Air?</p>
+            <p n="39">39. <hi>Whether any Diſeaſe could laſt long, if not daily ſupplied from the Body, as Hair and Nails are?</hi>
+            </p>
+            <p>There is little reaſon to think it would: But Diſeaſes once ex<g ref="char:EOLhyphen"/>iſting have a vegetative life like Plants, and will according to their reſpective Kinds and Dura<g ref="char:EOLhyphen"/>tion, unleſs interrupted by Art or Nature, ſupport themſelves by
+<pb n="41" facs="tcp:108041:23" rendition="simple:additions"/> attracting Nouriſhment out of the Body; and this was apparent in a Patient the Author had ma<g ref="char:EOLhyphen"/>ny years ago, and recovered, after ſhe had been waſted by a looſe<g ref="char:EOLhyphen"/>neſs of Three Years ſtanding, in which time ſhe muſt have diſ<g ref="char:EOLhyphen"/>charged by Stool, at but half a pound a day, above 547 pound, which was near five times her own weight; if therefore it had not been ſupplied, it muſt either have ended the Patient or it ſelf in few Months.</p>
+            <p n="40">40. <hi>Whether all ſuch cures muſt not fail that are not as juſtly pro<g ref="char:EOLhyphen"/>portioned to the Diſeaſe, as to the ſtrength of the Patient?</hi>
+            </p>
+            <p>Few will doubt but they muſt; for, ſuppoſe an ounce of peccant matter to be daily prepared, and no more emptyed either by Na<g ref="char:EOLhyphen"/>ture
+<pb n="42" facs="tcp:108041:24" rendition="simple:additions"/> or the Remedy, the Diſeaſe muſt neceſſarily remain in the ſame ſtate; but if leſs be empti<g ref="char:EOLhyphen"/>ed, the Diſeaſe muſt increaſe; if more, it muſt mathematically have an End. What is further to be conſidered, is, how to avoid making too much haſt for the Patient's ſtrength, with violent Remedies ſo called, or large Do<g ref="char:EOLhyphen"/>ſes; or too little to ſave his life; for when Diſeaſes ride poſt, Re<g ref="char:EOLhyphen"/>medies muſt not follow a ſnails pace, curable Diſeaſes muſt be headed and out-run according to their pace. <hi>Extremis morbis ex<g ref="char:EOLhyphen"/>trema remedia conveniunt.</hi>
+            </p>
+            <p n="41">41. <hi>Whether (when vitious hu<g ref="char:EOLhyphen"/>mours received, bred, or alter'd with<g ref="char:EOLhyphen"/>in the Body, happen to be put into motion, either by their quantity, quality, or other accident) the ex<g ref="char:EOLhyphen"/>pulſive
+<pb n="43" facs="tcp:108041:24"/> faculty is not thereby excited, without ceaſing or by fits, to drive them from one part to another, till they ſhall be either quite expell'd, or the remainder thrown upon ſome out<g ref="char:EOLhyphen"/>ward or ignoble part, where it becomes a ſetled Pain, Tumour, <g ref="char:V">Ʋ</g>lcer, Fi<g ref="char:EOLhyphen"/>ſtula or the like, unleſs Death ends the ſtrife before.</hi>
+            </p>
+            <p>It is evident how ſmall a mat<g ref="char:EOLhyphen"/>ter is uneaſie to Nature, a Moat in the Eye and a ſmall Fibre be<g ref="char:EOLhyphen"/>tween the Teeth gives great di<g ref="char:EOLhyphen"/>ſturbance, even our natural Hu<g ref="char:EOLhyphen"/>mours out of their proper Veſſels, as extravaſated Blood, as well as the preternatural Humours, puts Nature upon an endeavour to free it ſelf, from what can be no longer uſeful to it, and thus are both Acute and Chronical Di<g ref="char:EOLhyphen"/>ſtempers formed, and that which
+<pb n="44" facs="tcp:108041:25" rendition="simple:additions"/> continues their periods, is either the Weakneſs or Situation of the part, or a preternatural Ferment lodged in it, which is a prepared matter like tinder ready to catch Fire, aſſoon as any Foreign ſpark falls on it.</p>
+            <p n="42">42. <hi>Whether, before a Patient recovers, many ill fits do not return in the courſe of a Diſeaſe; and whether, before a patient dies, he hath not many lucid Intervals?</hi>
+            </p>
+            <p>This is ſo known to practitioners that it muſt not be denyed, there<g ref="char:EOLhyphen"/>fore the firſt ought not to mini<g ref="char:EOLhyphen"/>ſter fear or deſpair if other circum<g ref="char:EOLhyphen"/>ſtances are good; nor the laſt to give hopes when they are not.</p>
+            <p n="43">43. <hi>Whether Health is not pre<g ref="char:EOLhyphen"/>ſerved by the ſeveral fluids or hu<g ref="char:EOLhyphen"/>mours of the Body in a natural or healthy State; and Sickneſs intro<g ref="char:EOLhyphen"/>duced
+<pb n="45" facs="tcp:108041:25" rendition="simple:additions"/> by like fluids in a preterna<g ref="char:EOLhyphen"/>tural or unhealthy State?</hi>
+            </p>
+            <p>This ſeems to be ſelf-evident.</p>
+            <p n="44">44. <hi>Whether the Spirits, or finer parts of thoſe Natural Fluids, are not active for our preſervation; and the Spirits or finer parts of the pre<g ref="char:EOLhyphen"/>ternatural Fluids as active for our Deſtruction?</hi>
+            </p>
+            <p>This appears no leſs manifeſt than the laſt.</p>
+            <p n="45">45. <hi>Whether the natural Fluids are not preſerved and ſupplied by a right uſe of the Six Nonnaturals; and the preternatural introduced by a wrong uſe or abuſe of the ſame Non-naturals?</hi>
+            </p>
+            <p>This few will deny.</p>
+            <p n="46">46. <hi>Whether the proportion of ſtrength and quantity of good ani<g ref="char:EOLhyphen"/>mal Spirits is not according to the quantity of the natural Humours;
+<pb n="46" facs="tcp:108041:26"/> and whether the quantity of evil Spirits and their activity and con<g ref="char:EOLhyphen"/>trarity to our Natures is not pro<g ref="char:EOLhyphen"/>portionable to the quantity of preter<g ref="char:EOLhyphen"/>natural humours?</hi>
+            </p>
+            <p>If this be granted, as it can<g ref="char:EOLhyphen"/>not well be denied, then muſt the Duration, Power, and Dan<g ref="char:EOLhyphen"/>ger of Diſeaſes with their extent to part or all the body bear ex<g ref="char:EOLhyphen"/>act proportion with the quantity of ſuch preternatural Humours.</p>
+            <p n="47">47. <hi>Whether as long as there is life, there is not hopes, and whether any Remedy is not better than none?</hi>
+            </p>
+            <p>
+               <hi>Dum ſpiro ſpero, praeſtat anceps remedium quam nullum.</hi> For Pa<g ref="char:EOLhyphen"/>tients have been reduced to that deſperate Condition in the Opini<g ref="char:EOLhyphen"/>on of By-ſtanders, as no appear<g ref="char:EOLhyphen"/>ance of life remained, and yet
+<pb n="47" facs="tcp:108041:26"/> by God's bleſſing directing to the right means, they have beyond hopes recovered, ſo that none ought to be forſaken before they are dead; beſides, what hurt can there be to try to ſave a Patient tho the greatneſs or progreſs of the Diſeaſe ſhould give little En<g ref="char:EOLhyphen"/>couragement; they can but die? <hi>Tentare non nocet.</hi> Many who in all appearance were paſt Hopes, are now alive and well, and muſt certainly have died, had not pro<g ref="char:EOLhyphen"/>per means been uſed in Seaſon.</p>
+            <p n="48">48. <hi>Whether a frequent unrea<g ref="char:EOLhyphen"/>ſonable fancy, if not very accidental and occaſional, is not as much a Diſeaſe requiring help, as a Fever or the Scurvy?</hi>
+            </p>
+            <p>The Arch-biſhop of <hi>York</hi> in his Sermon of the Government of the Thoughts, fully grants this quere
+<pb n="48" facs="tcp:108041:27"/> ſaying, <hi>That he doubts not but ex<g ref="char:EOLhyphen"/>travagant Fancies are as properly a bodily Diſeaſe, as a Fever or Fits of the Falling Sickneſs.</hi> Madneſs is only extravagant Fancies, and the Spleen but ſome degrees be<g ref="char:EOLhyphen"/>low it; if therefore the Spleen and Madneſs can be cured, why not Fancies, which, though a Diſ<g ref="char:EOLhyphen"/>eaſe, is much leſs.</p>
+            <p n="49">49. <hi>Whether Perſons in perfect Health ought ever to take Phyſick, or Purge; and whether the <g ref="char:V">Ʋ</g>nheal<g ref="char:EOLhyphen"/>thy ought to neglect it one Mo<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>Health <hi>ad pondus</hi> is not to be expected on Earth, but Health <hi>ad juſtitiam</hi> may, and ſuch are to take no Purging Phyſick, except in a viſible <hi>Plethora;</hi> becauſe it will certainly carry off ſome Hu<g ref="char:EOLhyphen"/>mours which ought not, and <hi>pro<g ref="char:EOLhyphen"/>tempore</hi>
+               <pb n="49" facs="tcp:108041:27" rendition="simple:additions"/> weaken the Patient by waſting without any neceſſity or benefit ſo many of his Spirits, there being no ill Humours to be workt upon which might have recompenſed that loſs and trou<g ref="char:EOLhyphen"/>ble; but on the other ſide, a ſick Patient ought to loſe no time in hopes of being well to Morrow, which deceives many out of then lives; for the ſooner they begin, the ſooner they'll be cured, and the leſs ſerves turn, and they re<g ref="char:EOLhyphen"/>cover with much greater ſpeed and certainty, and leſs charge than if they delay till they be<g ref="char:EOLhyphen"/>come weak and the Diſeaſe ſtrong.</p>
+            <p n="50">50. <hi>Whether 'tis not ſufficient that Medicaments are beneficial, without expecting they ſhould be either eaſie in Operation or pleaſant in Taſt?</hi>
+            </p>
+            <pb n="50" facs="tcp:108041:28" rendition="simple:additions"/>
+            <p>For Medicaments were made for neceſſity only and not de<g ref="char:EOLhyphen"/>light, though Food was made for both; becauſe we cannot live without Food: But, if Mankind was wiſe enough to follow in theſe matters the dictates of Nature, there would be little need of Phyſick; ſo that 'tis God's Mercy we can have our Healths upon any Terms, and the worſe the better for a puniſhment to make us wiſe and wary to pre<g ref="char:EOLhyphen"/>ſerve our Healths by Moderation and a Regular Life.</p>
+            <p n="51">51. <hi>Whether 'tis not as vain to expect to be freed from Diſeaſes with<g ref="char:EOLhyphen"/>out Pain or Sorrow, as for a Woman to expect to be delivered of her Children without Pain?</hi>
+            </p>
+            <p>Whatever ſatisfaction there may be in their Cauſes, the Pro<g ref="char:EOLhyphen"/>verb
+<pb n="51" facs="tcp:108041:28" rendition="simple:additions"/> tells us, Sweet Meet muſt have ſowre Sauce; ſo that which is ſweet in the Mouth may be bitter in the Belly, and for want of true Wiſdom (which is a fa<g ref="char:EOLhyphen"/>culty of diſcerning remote con<g ref="char:EOLhyphen"/>ſequences beyond the deceitful appearance of things) moſt People are enſnared to their ruin; for Evils have Beautiful out-ſides but rotten inſides; when Good hath comfort in the end, though not outwardly ſo charmingly a<g ref="char:EOLhyphen"/>dorned.</p>
+            <p n="52">52. <hi>Whether 'tis not very pru<g ref="char:EOLhyphen"/>dent, to ſtudy to preſerve our Healths, to recover it the ſhorteſt and ſafeſt way when loſt, and to ſub<g ref="char:EOLhyphen"/>mit (before 'tis too late) to ſtron<g ref="char:EOLhyphen"/>ger means, when gentle are inſuffici<g ref="char:EOLhyphen"/>ent?</hi>
+            </p>
+            <pb n="52" facs="tcp:108041:29" rendition="simple:additions"/>
+            <p>If Health is the moſt precious Jewel next the Soul, the wiſe, that know it, will both ſtudy to preſerve and recover it, and al<g ref="char:EOLhyphen"/>ways uſe the means though ſeem<g ref="char:EOLhyphen"/>ingly violent by which they may attain their end with greateſt cer<g ref="char:EOLhyphen"/>tainty.</p>
+            <p n="53">53. <hi>Whether violent Medicines ought to be neglected or their uſe delayed where gentle will prove in<g ref="char:EOLhyphen"/>effectual and endanger a Patient?</hi>
+            </p>
+            <p>If gentle Medicines are equal<g ref="char:EOLhyphen"/>ly profitable, 'tis imprudent to uſe the violent; but, where they are not, 'tis as imprudent to ne<g ref="char:EOLhyphen"/>glect them; <hi>extremis morbis ex<g ref="char:EOLhyphen"/>trema remedia conveniunt.</hi> But much of this doubt would be ſolved, if the word (Violent) were well underſtood; ſome mean dangerous by it, and then ſuch
+<pb n="53" facs="tcp:108041:29" rendition="simple:additions"/> Medicines deſerve alwaies to be rejected; others powerful and ef<g ref="char:EOLhyphen"/>fectual, and then they ought ne<g ref="char:EOLhyphen"/>ver to be out of uſe; for 'tis al<g ref="char:EOLhyphen"/>waies better to make uſe of vio<g ref="char:EOLhyphen"/>lent Medicines that will certain<g ref="char:EOLhyphen"/>ly cure, than to truſt to the wea<g ref="char:EOLhyphen"/>ker and loſe time with hazard to the Patient.</p>
+            <p n="54">54. <hi>Whether all Perſons muſt not either Labour, Faſt, uſe Phy<g ref="char:EOLhyphen"/>ſick, or be Sick?</hi>
+            </p>
+            <p>For ſuch as will not Exerciſe, muſt eat Sparingly, and if they'll do neither, they muſt take Phy<g ref="char:EOLhyphen"/>ſick or be Sick, unleſs they have by the benefit of Nature, Evacua<g ref="char:EOLhyphen"/>tions proportionable to their Feeding and Sloth. The follow<g ref="char:EOLhyphen"/>ing rule of Health is not con<g ref="char:EOLhyphen"/>temptible Eat when Hungry, Drink being Thirſty, Sleep when
+<pb n="54" facs="tcp:108041:30" rendition="simple:additions"/> Drowſie, and be never Idle.</p>
+            <p n="55">55. <hi>Whether great Feeders, if not as great Labourers, muſt not daily grow from a Horſe-load to a Cart-load, or empty a Barrel of Ex<g ref="char:EOLhyphen"/>crements?</hi>
+            </p>
+            <p>For whatever is not diſcharged in proportion to what is received, muſt ſtill remain behind, either for Fat, Diſeaſes, or both.</p>
+            <p n="56">56. <hi>Whether 'tis not the peccant matter, moved by the Phyſick, and not the Phyſick, which in Purging and Vomiting, gripes and makes the Patient ſo Sick?</hi>
+            </p>
+            <p>For the ſame matter gives the like Sickneſs and Pain, when moved by Nature without Phy<g ref="char:EOLhyphen"/>ſick; and Phyſick gives little or no diſturbance, when there is no diſeaſed matter in the Body or none moved by it; <hi>Seneca</hi> ſays,
+<pb n="55" facs="tcp:108041:30" rendition="simple:additions"/> 
+               <hi>Remedia nulla ſunt tam ſalutaria, quam quae faciunt dolorem.</hi> It muſt needs therefore be a ſign, when Evacuating Phyſick neither gripes nor indiſpoſeth, that ei<g ref="char:EOLhyphen"/>ther the Patient needed none, or that what was taken, was too weak and improper to do him any good.</p>
+            <p n="57">57. <hi>Whether 'tis not much bet<g ref="char:EOLhyphen"/>ter to give ſtrong and powerful Re<g ref="char:EOLhyphen"/>medies at firſt whilſt the Patient is vigorous, and the Diſeaſe weak, than to delay ſo long with gentle Medi<g ref="char:EOLhyphen"/>cines, as is too frequently practiſed, till the Diſeaſe is grown ſtrong and the Patient feeble?</hi>
+            </p>
+            <p>Where the Diſeaſe cannot cer<g ref="char:EOLhyphen"/>tainly be overcome with gentle means, 'tis never prudent to ha<g ref="char:EOLhyphen"/>zard life by delay, whereby ma<g ref="char:EOLhyphen"/>ny a Patient hath been loſt who
+<pb n="56" facs="tcp:108041:31" rendition="simple:additions"/> might have been ſaved by an earlier application of true and powerful Remedies. <hi>Poſt eſt oc<g ref="char:EOLhyphen"/>caſio calva, &amp; ſero Medicina paratur.</hi>
+            </p>
+            <p n="58">58. <hi>Whether Soldiers and Sea<g ref="char:EOLhyphen"/>men, ſeaſoned by the recovery out of epidemical Diſtempers, attending Camps and Fleets, are not after<g ref="char:EOLhyphen"/>wards leſs ſubject to fall ill again by diſorders, and uſually continue in Health a long time after?</hi>
+            </p>
+            <p>The reaſon for this ſeems to be, that ſuch Diſeaſes for the moſt part conſume the greateſt part of, if not all, the preterna<g ref="char:EOLhyphen"/>tural Humours at that time in the Body; and it will require again ſome conſiderable time before a ſufficient quantity can be colle<g ref="char:EOLhyphen"/>cted for another Sickneſs. Be<g ref="char:EOLhyphen"/>ſides, Diſeaſes uſually fall on the Men, before cuſtom and uſe hath
+<pb n="57" facs="tcp:108041:31" rendition="simple:additions"/> hardened them; ſo that every lit<g ref="char:EOLhyphen"/>tle unuſual Diſorder, which pre<g ref="char:EOLhyphen"/>judiced them at firſt, hath after<g ref="char:EOLhyphen"/>wards no power over them.</p>
+            <p n="59">59. <hi>Whether any Flux what<g ref="char:EOLhyphen"/>ſoever had better be ſtopt in the be<g ref="char:EOLhyphen"/>ginning with Aſtringent Remedies, or be cured by removing the cauſe with Evacuation?</hi>
+            </p>
+            <p>If no Flux or preternatural E<g ref="char:EOLhyphen"/>ruption can happen, but by ſome<g ref="char:EOLhyphen"/>thing received into the body of a looſening or purging quality; or elſe by the ſtrength of Nature, en<g ref="char:EOLhyphen"/>deavouring to free its ſelf of ſome offending Humours, the firſt if it ceaſeth not of its ſelf, muſt be removed by ſome other evacuant the ſame way or ſome other; the laſt if nature proves inſufficient to ſave it ſelf by a critical Eva<g ref="char:EOLhyphen"/>cuation, muſt have the cauſe re<g ref="char:EOLhyphen"/>moved
+<pb n="58" facs="tcp:108041:32" rendition="simple:additions"/> by artificial cleanſing, and not be kept in to a worſe purpoſe by Aſtringents.</p>
+            <p n="60">60. <hi>Whether there is not the ſame reaſon and neceſſity for the Sick to take Phyſick, as for the Healthy food?</hi>
+            </p>
+            <p>Tho ſome may live many daies without Food and not be ſtarved, and ſome Sick may live without Phyſick, and it may be, recover; yet none in their wits will volun<g ref="char:EOLhyphen"/>tarily and knowingly make the experiment, unleſs they either want Money or Faith in Phyſick, for Medicine is as much Food for the Sick, as Food is Medicine for the Hungry.</p>
+            <p n="61">61. <hi>Whether God Almighty hath not as well furniſhed the World with Medicines for the Sick, as with Food for the Hungry?</hi>
+            </p>
+            <pb n="59" facs="tcp:108041:32" rendition="simple:additions"/>
+            <p>God made nothing in vain; e<g ref="char:EOLhyphen"/>very Herb, Animal, and Mineral have their diſtinct uſes, and pro<g ref="char:EOLhyphen"/>perties; and 'tis the duty of Phy<g ref="char:EOLhyphen"/>ſicians diligently to examine, and carefully to obſerve what they are, and how they may be beſt applyed for the ſervice of Man<g ref="char:EOLhyphen"/>kind, which is truly called the Art of Phyſick, and came down from Heaven.</p>
+            <p n="62">62. <hi>Whether this Art of Phy<g ref="char:EOLhyphen"/>ſick, or a right knowledge of Na<g ref="char:EOLhyphen"/>ture, and skill in Medicines with their various Operations in Humane Bodies, under different circumſtan<g ref="char:EOLhyphen"/>ces and affects, is not ſometimes bet<g ref="char:EOLhyphen"/>ter acquired by faithful Inſtructi<g ref="char:EOLhyphen"/>on, by diligent Obſervation, and plain demonſtration by Practice, than always by hard Study and Read<g ref="char:EOLhyphen"/>ing only?</hi>
+            </p>
+            <pb n="60" facs="tcp:108041:33" rendition="simple:additions"/>
+            <p>If Reading and Study, with<g ref="char:EOLhyphen"/>out Inſtruction and Practice, were the beſt and only Method of at<g ref="char:EOLhyphen"/>taining to the higheſt knowledge in Phyſick, then ought all Per<g ref="char:EOLhyphen"/>ſons, that intend to follow the Practice, to continue at leaſt Fifty or Sixty Years ſtudying in the Univerſity, and, when they ſhall have Read and digeſted all the Phyſical Authors and form'd to themſelves the beſt Method of Practice out of the confuſed heap of Contradictions to be met with amongſt them, which is next to im<g ref="char:EOLhyphen"/>poſſible, let them then commence Practice: But this at beſt can be but like a Traveller without a Guide, wandering up and down to the hazard of poor Mens lives. When under the conduct of an a<g ref="char:EOLhyphen"/>ble Inſtructor, the ſhorteſt and
+<pb n="61" facs="tcp:108041:33" rendition="simple:additions"/> beſt ways are Trodden, and the Dangerous and Tedious avoid<g ref="char:EOLhyphen"/>ed, and the ready way learnt for the future.</p>
+            <p n="63">63. <hi>Whether every Doctor in Phyſick is an able Phyſician? And whether he that hath moſt Practice is always the Ableſt?</hi>
+            </p>
+            <p>If <hi>Medicus eſt qui ſanat, non qui garrit, &amp; ſanitas eſt finis Me<g ref="char:EOLhyphen"/>dicinae, non lucrum;</hi> Then he muſt always be the beſt Phyſici<g ref="char:EOLhyphen"/>an that cureth moſt in the ſame Number and like Caſes, and not he that doth not, though he hath taken all his Degrees and the o<g ref="char:EOLhyphen"/>ther none; and for ſuch as are not well inſtructed, they ought to ſpend ſome longer time under the care of an Ancient Doctor of Skill and Experience, that they may not verifie the Proverb, That
+<pb n="62" facs="tcp:108041:34" rendition="simple:additions"/> young Phyſicians muſt kill ſuch a Number, before they can be fit for Practice. Again, if bread is not to the wiſe, <hi>&amp;c.</hi> it doth not then always follow, that he, who hath moſt Practice, is the Skilfulleſt: For, there are many little Artifices to bring Men in<g ref="char:EOLhyphen"/>to Practice, as Bribes, tatling Goſſips, <hi>&amp;c.</hi> which are much more effectual than the greateſt Skill without their Aſſiſtance, and which no skillful Phyſician will ſtoop to uſe, when on the contrary Ignorant, Mercenary Pretenders diligently courts them.</p>
+            <p n="64">64. <hi>Whether 'tis not honeſter to prognoſticate the Truth, at leaſt to Friends and By-ſtanders, though not always to the Patient; than conſtantly to foretel Danger, even when none appears?</hi>
+            </p>
+            <pb n="63" facs="tcp:108041:34" rendition="simple:additions"/>
+            <p>Phyſicians of mighty Prudence and ſmall Integrity ever gain by Frightful Prognoſticks; for, if the Patient dies, their early Prog<g ref="char:EOLhyphen"/>noſtick gives them great Reputa<g ref="char:EOLhyphen"/>tion for knowing ſo long before, what muſt come to paſs at laſt, and if the Patient recovers, the cure is the more Miraculous, be<g ref="char:EOLhyphen"/>cauſe the condition was ſo De<g ref="char:EOLhyphen"/>ſperate.</p>
+            <p n="65">65. <hi>Whether Women with Child, and in Child-bed may not ſafely, when the Diſeaſe requires, both Vo<g ref="char:EOLhyphen"/>mit, Bleed and Purge, provided it be with good Caution?</hi>
+            </p>
+            <p>'Tis very probable, that the Diſeaſe which would have kill'd them for want of thoſe Operati<g ref="char:EOLhyphen"/>ons, when not with Child, or in Child-bed, would much ſooner do it in both theſe caſes; becauſe
+<pb n="64" facs="tcp:108041:35"/> Nature hath not only the ſtrength and power of the Diſeaſe, but the hazardous circumſtance of a great Belly, or the weakneſs of Child-bed to ſtruggle with.</p>
+            <p n="66">66. <hi>Whether a Phyſician ſhould be choſen for Favour and Affection; or for his Skill and Integrity?</hi>
+            </p>
+            <p>Wiſe men chooſe their Phyſi<g ref="char:EOLhyphen"/>cians only for the help they ex<g ref="char:EOLhyphen"/>pect from them in time of need, which they could have no rea<g ref="char:EOLhyphen"/>ſon to hope for, if they were not both able and honeſt. A skillful Turk is preferable to an igno<g ref="char:EOLhyphen"/>rant Chriſtian.</p>
+            <p n="67">67. <hi>Whether the practice of Phy<g ref="char:EOLhyphen"/>ſick is not of late become more a Trade or Profeſſion to gain a Live<g ref="char:EOLhyphen"/>lihood, than an Art to reſtore Health and ſave Lives?</hi>
+            </p>
+            <pb n="65" facs="tcp:108041:35"/>
+            <p>The preſent Methods of Pra<g ref="char:EOLhyphen"/>ctice ſeem to be accommodated rather to anſwer the firſt part of the Quere, than the laſt.</p>
+            <p n="68">68. <hi>Whether Anatomy and A<g ref="char:EOLhyphen"/>ſtrology, the firſt abſolutely neceſſa<g ref="char:EOLhyphen"/>ry for a Surgeon, and both very or<g ref="char:EOLhyphen"/>namental to a Phyſician, can bet<g ref="char:EOLhyphen"/>ter qualifie him for the healing of inward Diſeaſes, than Fidling can qualifie a Barber for Shaving.</hi>
+            </p>
+            <p>It would be a good Service to the Publick for any to undertake to demonſtrate plainly, wherein ei<g ref="char:EOLhyphen"/>ther helps the cure of any one inward Diſtemper; becauſe ma<g ref="char:EOLhyphen"/>ny Students loſe too much time in theſe inquiries, which might have been better ſpent in obſerving the Practice of Phyſick and ſome great Practitioners; and alſo becauſe many are apt to put too great a
+<pb n="66" facs="tcp:108041:36"/> value, as moſt neceſſary, when in compariſon of other more eſſenti<g ref="char:EOLhyphen"/>al requiſits to a Phyſician, they ſeem but trifles.</p>
+            <p n="69">69. <hi>Whether any can be ſo well qualified to Treat of Diſeaſes, their Nature, Cauſe and Cure, as a Phyſician of long Experience, and much Obſervation?</hi>
+            </p>
+            <p>Young Phyſicians ſhould not then be forward to attempt this Province.</p>
+            <p n="70">70. <hi>Whether ſucceſs doth not e<g ref="char:EOLhyphen"/>ver attend the Seaſonable uſe of proper means?</hi>
+            </p>
+            <p>Then, when Succeſs is want<g ref="char:EOLhyphen"/>ed, 'tis becauſe the wrong means were miſ-taken for the right, or the right too late apply<g ref="char:EOLhyphen"/>ed, or miſapplyed.</p>
+            <p n="71">71. <hi>Whether, as often as God bleſſeth Perſons or things with Suc<g ref="char:EOLhyphen"/>ceſs,
+<pb n="67" facs="tcp:108041:36"/> he doth not direct to the ſea<g ref="char:EOLhyphen"/>ſonable uſe of means proper to the end aimed at and expected?</hi>
+            </p>
+            <p>To expect God's Bleſſing with<g ref="char:EOLhyphen"/>out the uſe of proper means, is not to truſt, but to tempt God; His bleſſing never turns Stone and Sand into good Food and Nouriſhment, nor preſerves any from drowning, who preſumes to walk upon the Sea from <hi>Dover</hi> to <hi>Callais;</hi> things improbable may, by God's Bleſſing, anſwer a Mans Expectation, as a Man in neceſſity may ſometimes croſs to <hi>Calais</hi> in a Wherry, or rotten Veſſel, and Eſcape: But to under<g ref="char:EOLhyphen"/>take impoſſibilities is affronting, not truſting the Deity.</p>
+            <p n="72">72. <hi>Whether 'tis better for a Phyſician to be a Knave and in<g ref="char:EOLhyphen"/>creaſe his Practice by humouring the
+<pb n="68" facs="tcp:108041:37"/> Fools and letting them die their own way; or to be honeſt and leſſen his practice in ſaving them with me<g ref="char:EOLhyphen"/>thods diſpleaſing, becauſe really there are no other can help them.</hi>
+            </p>
+            <p>An ingenious Gentleman was pleaſed to ſay upon this, That 'tis better for the Patient, the Phyſician ſhould be honeſt; tho 'tis better for the Phyſician to be a Knave.</p>
+            <p n="73">73. <hi>Whether the Practice of Phyſick doth not very much want a juſt and due Regulation, and is not capable of great improvements for the benefit of Mankind? And whether it doth not well deſerve ſuch Reformation, ſince it concerns Life and Health, the deareſt earth<g ref="char:EOLhyphen"/>ly injoyments?</hi>
+            </p>
+            <p>If the Government would un<g ref="char:EOLhyphen"/>dertake this task, beſides the cha<g ref="char:EOLhyphen"/>rity
+<pb n="69" facs="tcp:108041:37"/> to Mankind, it would won<g ref="char:EOLhyphen"/>derfully increaſe their own Glory, Riches, and Power by the in<g ref="char:EOLhyphen"/>creaſe of Subjects, in ſaving ſo many more lives. And that the Government might not be per<g ref="char:EOLhyphen"/>ſwaded, they are not fit for ſuch an Undertaking, they may pleaſe to conſider it was firſt the Government, that conſtituted a College of Phyſicians, which they would never have done, had they not been able to judge of the uſefulneſs of the Art, and 'tis as much in their Capacity, as their Power to reform the Abuſes, e<g ref="char:EOLhyphen"/>ven as 'tis in Judges to determine Differences in matters of the ſame Trade, amongſt the members of the Trade, when the Argu<g ref="char:EOLhyphen"/>ments of both ſides are brought and argued before them. This
+<pb n="70" facs="tcp:108041:38"/> would give a more faithful ac<g ref="char:EOLhyphen"/>count of the Abilities of Phyſici<g ref="char:EOLhyphen"/>ans than common fame now doth, wherein Intereſt and Affection generally rules.</p>
+            <p n="74">74. <hi>Whether there can be con<g ref="char:EOLhyphen"/>trived (if the Government pleaſe) any juſt and proper Teſt or Standard whereby to try the ſeveral Abilities of Phyſicians much more truly and cer<g ref="char:EOLhyphen"/>tainly than any we have at preſent?</hi>
+            </p>
+            <p>This were at leaſt to be wiſht, if there were no hopes to reduce it to practice, for not to know how to diſtinguiſh the skilful Phyſicians from the ignorant is next to having none, for want of which moſt wander without a Guide, and with the Proverb, ſooner light on a Snake than an Eel, there being ſo many preten<g ref="char:EOLhyphen"/>ders for any one truly qualified
+<pb n="71" facs="tcp:108041:38"/> for the Practice. Wrong ways are not wanting to miſguide Pa<g ref="char:EOLhyphen"/>tients, as common fame, which u<g ref="char:EOLhyphen"/>ſually proves a Liar; ſome few mercenary Apothecaries, Mid<g ref="char:EOLhyphen"/>wives, and Nurſes, who diſcredit the reſt, by preferring their private gain to the Patients welfare: like the Porters at <hi>Billings-gate,</hi> who prefer the Oiſters of that Boat they ply for though they really ſtink, before all others, that are truly good, for no other reaſon than their own Gain. Fa<g ref="char:EOLhyphen"/>ction, Party, and the fractions of Religion; Relation, Acquain<g ref="char:EOLhyphen"/>tance, and good Fellowſhip; Time and Chance; together with a Plauſible, Fawning and Flatter<g ref="char:EOLhyphen"/>ing behaviour; a good faculty of Goſſiping, and uſing cramp Words; the reputation of a Scho<g ref="char:EOLhyphen"/>lar,
+<pb n="72" facs="tcp:108041:39"/> or Traveller, though it were but very little to purpoſe; and in fine any thing, but real skill, which ſlights all indirect Artifi<g ref="char:EOLhyphen"/>ces, finds not many juſt and fit Judges, and therefore, ſtragling in the Dark, but few have the good fortune to meet it. There are commonly two other previous Teſts, the firſt at the Univerſity, whether fit to be made a Do<g ref="char:EOLhyphen"/>ctor, the laſt at the College, whether fit to be made a Mem<g ref="char:EOLhyphen"/>ber; but neither of theſe reach the true and neceſſary Qualifica<g ref="char:EOLhyphen"/>tions of a Phyſician, which is the thing wanted and now deſired.</p>
+            <p n="75">75. <hi>Whether 'tis not a neceſſary Duty of a Phyſician to conſider di<g ref="char:EOLhyphen"/>ligently the Patients Strength as well as his Diſeaſe, and ſo to ad<g ref="char:EOLhyphen"/>apt the Remedies, as they be nei<g ref="char:EOLhyphen"/>ther
+<pb n="73" facs="tcp:108041:39"/> too ſtrong for the ſick Pati<g ref="char:EOLhyphen"/>ent, nor too weak to do them good?</hi>
+            </p>
+            <p>
+               <hi>Cito tuto &amp; jucunde,</hi> is an old known Rule in Phyſick, in which this duty is certainly included and always obſerved by a good Phy<g ref="char:EOLhyphen"/>ſician; for as, on the one hand, a Medicine too ſtrong may de<g ref="char:EOLhyphen"/>ſtroy a Patient: So, on the other, one too weak may let them die, which differs little to the Patient. An Eminent Doctor long ſince Dead, had, in the abſence of the Author, preſcribed a Courſe for a perſon of great Quality's young Child: upon the Author's return he gave (being demanded) the fol<g ref="char:EOLhyphen"/>lowing Opinion of it, That the preſcription was proper to the Diſeaſe, but not well accommoda<g ref="char:EOLhyphen"/>ted to the particular caſe of the Child, for the Method could not
+<pb n="74" facs="tcp:108041:40"/> take effect in leſs than a Fort<g ref="char:EOLhyphen"/>night, and the Child would die in two daies, as it did. This Query is thought neceſſary to be here inſerted; becauſe, no cau<g ref="char:EOLhyphen"/>tion is ſo much urged by the Re<g ref="char:EOLhyphen"/>lations and By-ſtanders, as to re<g ref="char:EOLhyphen"/>gard the Patients ſtrength, which is altogether needleſs to good Phyſicians, and very prejudicial oft-times in diſcouraging them to proceed as they ought. <hi>Riveri<g ref="char:EOLhyphen"/>us</hi> obſerving the many miſchiefs by Womens Goſſiping, cannot forbear taking notice of it in theſe Words, <hi>Noſtratium mulie<g ref="char:EOLhyphen"/>rum nequitia, omnes infauſtos e<g ref="char:EOLhyphen"/>ventus Remediis aſcribentium, ef<g ref="char:EOLhyphen"/>ficit, ut etiam prudentiores medici metu calumniae ab utiliſſimis inter<g ref="char:EOLhyphen"/>dum abſtineant.</hi>
+            </p>
+            <p n="76">
+               <pb n="75" facs="tcp:108041:40" rendition="simple:additions"/>76. <hi>Whether the moſt effectual Method to ſweeten the Blood, ſo much and often deſired by many, is not to carry off by Evacuation, that which ſowres and ſpoils it?</hi>
+            </p>
+            <p>The remarks upon the third Query may not impertinently be here conſidered. All the ſweet<g ref="char:EOLhyphen"/>ners in vogue, either purge by U<g ref="char:EOLhyphen"/>rine, Sweat or inſenſible Perſpi<g ref="char:EOLhyphen"/>ration, as <hi>Tunbridge, Spaw, Sarſa,</hi> crude Antimony, Pearl, Aſſes Milk, <hi>&amp;c.</hi> or elſe 'tis the work of Air and Time, though Reme<g ref="char:EOLhyphen"/>dies often have the credit of the Cure.</p>
+            <p n="77">77. <hi>Whether the mineral Wa<g ref="char:EOLhyphen"/>ters ſweeten the Blood by ſome ſpe<g ref="char:EOLhyphen"/>cifick quality, or not rather by a purging or diuretick quality?</hi>
+            </p>
+            <p>We are certain they do this laſt, the other is not ſo apparent.</p>
+            <p n="78">
+               <pb n="76" facs="tcp:108041:41" rendition="simple:additions"/>78. <hi>Whether the Mineral Wa<g ref="char:EOLhyphen"/>ters abſtracted from Air, Exerciſe, Company, and the like, are in any reſpect more effectual or convenient, than other Remedies prepared by A<g ref="char:EOLhyphen"/>pothecaries, and formerly more in uſe?</hi>
+            </p>
+            <p>It is certain the great quantity required to make them effectual is none of their beſt Qualificati<g ref="char:EOLhyphen"/>ons, they may diſtend the part, and over cool too much, cauſe Cholicks, and Convulſions; and as all other Remedies are vary'd to the Patients caſe, ſo here you muſt diligently inquire, whether the Patients caſe will fit the Wa<g ref="char:EOLhyphen"/>ters, which 'tis moſt certain all that go thither do not.</p>
+            <p n="79">79. <hi>Whether, to make a right Judgment of the Waters for the publick Benefit, a Regiſter ought not
+<pb n="77" facs="tcp:108041:41"/> to be kept by a qualified Perſon, of the Diſeaſes and Inconveniences of all that drink the ſeveral Waters; of the accidents that happen in the drinking them, and the ſucceſs and health of the Patient for at leaſt ſix Months after?</hi>
+            </p>
+            <p>By this means there would be a true Hiſtory of the Cures, to inform the judgment of Phyſici<g ref="char:EOLhyphen"/>ans much better, which can only by chance now direct the Patient right, and conſequently 'twould prove much for the Patients ad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p n="80">80. <hi>Whether a Cure may not be wrought by a courſe of Phyſick, ſome weeks before the Patient plain<g ref="char:EOLhyphen"/>ly perceives it?</hi>
+            </p>
+            <p>'Tis as reaſonable to judge it may, as for Diſeaſes not to ap<g ref="char:EOLhyphen"/>pear till long after the occaſion
+<pb n="78" facs="tcp:108041:42" rendition="simple:additions"/> given, which cauſeth it, and of this there are many Examples. A Cancer in the Breaſt is not found in ſome Years after a Blow given, which was the cauſe. A Woman may not miſ<g ref="char:EOLhyphen"/>carry, in ſome Weeks after a Fright, which occaſioned it. And it is this which makes ſo many miſtakes, both of the Cauſes and Cures of Diſtempers. That oft<g ref="char:EOLhyphen"/>times cured the Patient, which he believed would kill him, and a Cordial had the credit, which contributed nothing to it. The laſt Phyſician and Medicine com<g ref="char:EOLhyphen"/>monly hath the Reputation of curing though it was the firſt that did it indeed. If this were not ſo, there could ne<g ref="char:EOLhyphen"/>ver have been ſo many cures for a Tooth-ach, which certain<g ref="char:EOLhyphen"/>ly fail the next time they are
+<pb n="79" facs="tcp:108041:42" rendition="simple:additions"/> tryed; but, hapning to be ap<g ref="char:EOLhyphen"/>plyed, when the pain was going off for the preſent (as no Di<g ref="char:EOLhyphen"/>ſtemper though never ſo vio<g ref="char:EOLhyphen"/>lent, but hath Remiſſions if not Periods) they being the laſt ap<g ref="char:EOLhyphen"/>plyed were recorded for the cure, when any other at that time, muſt have had the ſame good Succeſs.</p>
+            <p n="81">81. <hi>Whether more Patients have not died by not hindring, or not re<g ref="char:EOLhyphen"/>moving the Diſeaſe with proper and ſeaſonable Evacuations, than by at<g ref="char:EOLhyphen"/>tempting to remove them with Eva<g ref="char:EOLhyphen"/>cuating Remedies?</hi>
+            </p>
+            <p>Moſt Perſons that die before extreme old Age, might by a na<g ref="char:EOLhyphen"/>tural poſſibility have had their lives prolonged to Old Age. To Moral poſſibility many things muſt concurr, as the Obedience
+<pb n="80" facs="tcp:108041:43" rendition="simple:additions"/> and Wiſdom of the Patient, the Skill, Care, and Honeſty of the Phyſician, beſides outward ac<g ref="char:EOLhyphen"/>cidents, as Murther, Drowning, the falling of a Houſe, and infi<g ref="char:EOLhyphen"/>nite others, without the Power of either Phyſician or Patient. V. the 21 Query.</p>
+            <p n="82">82. <hi>Whether the Jeſuit's Pou<g ref="char:EOLhyphen"/>der makes not double work for the Doctor?</hi>
+            </p>
+            <p>Without doubt, his firſt Buſi<g ref="char:EOLhyphen"/>neſs is to cure the Ague with it; the next to cure the Patient of it.</p>
+            <p n="83">83. <hi>Whether moſt Fevers do not take their riſe from the</hi> primae viae?</p>
+            <p>Moſt certainly, for though the Air was Peſtilential, or the paſ<g ref="char:EOLhyphen"/>ſions Extravagant, if there were not ſuitable matter treaſured up
+<pb n="81" facs="tcp:108041:43" rendition="simple:additions"/> in the <hi>primae viae,</hi> no ſort of Fever would enſue.</p>
+            <p n="84">84. <hi>Whether, if Fevers begin in the</hi> primae viae, <hi>and are main<g ref="char:EOLhyphen"/>tained from thence, Bleeding can be ſo proper a Remedy as Vomiting or Purging; or whether it is ne<g ref="char:EOLhyphen"/>ceſſary at all to Bleed, or fit to begin with it?</hi>
+            </p>
+            <p>Whatever is ſeated in the <hi>pri<g ref="char:EOLhyphen"/>mae viae</hi> is ſooner and eaſier ex<g ref="char:EOLhyphen"/>pelled by Vomit and Stool. It may be often convenient to bleed in Fevers, tho 'tis but ſeldom neceſſa<g ref="char:EOLhyphen"/>ry: But it ſeems prepoſterous to begin the cure of any Fever with Bleeding except a Plethora.</p>
+            <p n="85">85. <hi>Whether Patients are not more weakned by Bleeding than by Vomit or Purge?</hi>
+            </p>
+            <p>If the animal Spirits ariſe im<g ref="char:EOLhyphen"/>mediately out of the Blood, as
+<pb n="82" facs="tcp:108041:44" rendition="simple:additions"/>
+'tis generally agreed, and that they give ſtrength, then 'tis moſt probable there are more Spirits contained in an ounce of Blood, than in an ounce of the expell'd Excrements.</p>
+            <p n="86">86. <hi>Whether it is not highly reaſonable to believe, that Choler is the cauſe of the Diſeaſe, and Vomiting the cure; when Patients, that are very Sick, are wonderful<g ref="char:EOLhyphen"/>ly eaſied and relieved, after having Vomited of themſelves without Me<g ref="char:EOLhyphen"/>dicines a quantity of Green, Yel<g ref="char:EOLhyphen"/>low, or Black Choler?</hi>
+            </p>
+            <p>This ſcarce deſerves a Diſpute, ſince there is ſeldom a ſick Per<g ref="char:EOLhyphen"/>ſon, but hath experimentally found a manifeſt relief after ſpon<g ref="char:EOLhyphen"/>taneous Vomiting, though very dangerouſly ill before. And ſo, as oft as they Vomit, they are
+<pb n="83" facs="tcp:108041:44" rendition="simple:additions"/> ſenſible of a temporary eaſe, which deſerves their careful ob<g ref="char:EOLhyphen"/>ſervation to convince them of the Truth hereof.</p>
+            <p n="87">87. <hi>Whether every powerful An<g ref="char:EOLhyphen"/>tidote againſt Poiſon doth not plen<g ref="char:EOLhyphen"/>tifully operate, either by Vomiting, Purging, or Sweating, and by dri<g ref="char:EOLhyphen"/>ving out Botches, Blanes, Soares, or Swellings, all which are mani<g ref="char:EOLhyphen"/>feſt Evacuations?</hi>
+            </p>
+            <p n="88">88. <hi>Whether a Patients weak<g ref="char:EOLhyphen"/>neſs proceeds not from the want of homogeneal Matter, or natural Hu<g ref="char:EOLhyphen"/>mours for the Spirits to dwell and delight in, waſted by preceding or preſent Diſeaſes, or by natural or critical Evacuations?</hi>
+            </p>
+            <p n="89">89. <hi>Whether Men, after being tired with hard labour, are not for the preſent Weakned, by Emptying or Waſting of ſo much Humour and
+<pb n="84" facs="tcp:108041:45" rendition="simple:additions"/> Spirits by Sweat through the Pores, which competent reſt and food ſup<g ref="char:EOLhyphen"/>ply again?</hi>
+            </p>
+            <p n="90">90. <hi>Whether any of the laſt Thirty Years diſcoveries, or pre<g ref="char:EOLhyphen"/>tended improvements in Phyſick, Chymiſtry, or Anatomy have ena<g ref="char:EOLhyphen"/>bled Phyſicians to cure one Diſeaſe more, or any one ſooner, ſafer, or eaſier than formerly. Or rather whether, being truſted to, they have not delay'd, if not fruſtrated the cure of many, helped before by old Methods.</hi>
+            </p>
+            <p>Fluxing with Mercury was both an invention about an hun<g ref="char:EOLhyphen"/>dred Years ſince, and a real im<g ref="char:EOLhyphen"/>provement: But what have we got by Spirit of <hi>Sal Armoniack, Harts-horn</hi> or <hi>Goddard</hi>'s Drops? What benefits appear by the modern uſe of Steel or Opium
+<pb n="85" facs="tcp:108041:45" rendition="simple:additions"/> more than formerly? What do the mineral Waters, which Whey and Diet Drinks could not? and there may be added, What migh<g ref="char:EOLhyphen"/>ty good can the Jeſuit's Pouder boaſt of to compenſate the many miſchiefs it hath cauſed? Agues were formerly cured, ſo as it be<g ref="char:EOLhyphen"/>came a Proverb, to be Phyſick for a King: But now they are ſo cured, as to plague the Patient many Months and Years after, if not ſhorten his days.</p>
+            <p n="91">91. <hi>Whether to begin with the Theory, and after proceed to Pra<g ref="char:EOLhyphen"/>ctice, is not a prepoſterous and un<g ref="char:EOLhyphen"/>natural way of Teaching, or learn<g ref="char:EOLhyphen"/>ing any thing?</hi>
+            </p>
+            <p>Languages are naturally acqui<g ref="char:EOLhyphen"/>red by Practice, and Grammars are formed afterwards. All or<g ref="char:EOLhyphen"/>dinary people learn foreign Lan<g ref="char:EOLhyphen"/>guages
+<pb n="86" facs="tcp:108041:46"/> by practice abroad, and not by Rule. Every Mecha<g ref="char:EOLhyphen"/>nick is taught his Handicraft by Practice, and ſuch, as labour at them by Speculation, bungle al<g ref="char:EOLhyphen"/>ways at the Practice: The Law<g ref="char:EOLhyphen"/>yers join the Practice with the Theory, by ſpending ſome time in the practice with an Attorney, or by frequenting the Courts, Aſſizes, and Seſſions. Skill in Phyſick is beſt acquired by Edu<g ref="char:EOLhyphen"/>cation in the Practice under an Eminent Phyſician. Some of our great Men had that Advantage. Beſides the uſe of Rules is more to preſerve the memory of what we have ſeen and read, and to confirm our Opinions, they being drawn from the practice of many Phyſicians. <hi>Agendo diſcis agere.</hi>
+            </p>
+            <p n="92">
+               <pb n="87" facs="tcp:108041:46"/>92. <hi>Whether any Phyſician or others ought, conſidering the many contingences in humane affairs, to tie themſelves up ſo ſtrictly to rules or Method, tho never ſo well eſta<g ref="char:EOLhyphen"/>bliſhed; as not to depart from the ſame upon any accident or ſucceſs whatſoever?</hi>
+            </p>
+            <p>
+               <hi>Pro re nata</hi> is a rule in Phyſick, 'tis therefore preſumed, an honeſt Phyſician will always govern himſelf with judgment and cauti<g ref="char:EOLhyphen"/>on according to Accidents and Variety of Circumſtances.</p>
+            <p n="93">93. <hi>Whether perfect Health doth not deſerve to be purchaſed, though upon its own unacceptable Terms?</hi>
+            </p>
+            <p>No doubt, unleſs People could be perſwaded, they might recover it as well upon their own pleaſing Conditions. But, ſince theſe de<g ref="char:EOLhyphen"/>ſireable methods cannot poſſibly
+<pb n="88" facs="tcp:108041:47"/> anſwer any Man's wiſhes, how much are they to blame, who deceive Patients to the great ha<g ref="char:EOLhyphen"/>zard of Life and Health, with ſuch falſe plauſible pretences?</p>
+            <p n="94">94. <hi>Whether 'tis not unreaſon<g ref="char:EOLhyphen"/>able to blame a Phyſician for not curing his Patient when he would, neither take what was preſcribed, nor according to direction?</hi>
+            </p>
+            <p>This ſeems to be one of the greateſt hardſhips, that can befall Phyſicians in their Practice, to be condemned by incompetent Judges, when innocent; and ſome<g ref="char:EOLhyphen"/>times by ſtrangers, who know no<g ref="char:EOLhyphen"/>thing of the matter, but by im<g ref="char:EOLhyphen"/>perfect hear-ſay, at the ſame time, when the Friends preſent are well ſatisfied, there is no cauſe of blame. To this purpoſe a moſt ingenious Lady of high Qua<g ref="char:EOLhyphen"/>lity
+<pb n="89" facs="tcp:108041:47"/> was pleaſed to ask a Phyſi<g ref="char:EOLhyphen"/>cian upon making this complaint, Whether he had never been com<g ref="char:EOLhyphen"/>mended, when he did not deſerve it, to which, being granted by him, ſhe was pleaſed to Reply, You muſt ſet one againſt t'other, which, tho it was a moſt witty Repartee, is far from being equal; for one adverſary ſhall do you more hurt, than ten Friends can do you good.</p>
+            <p n="95">95. <hi>Whether wiſe Men do lazily believe all they hear, or do not ra<g ref="char:EOLhyphen"/>ther critically examine the truth of it, eſpecially if it is of ſo great mo<g ref="char:EOLhyphen"/>ment as well to deſerve the trou<g ref="char:EOLhyphen"/>ble?</hi>
+            </p>
+            <p>Some men deſpiſe all that comes from others; ſome will not ſpare time from their pleaſures, tho to ſave themſelves, and the
+<pb n="90" facs="tcp:108041:48"/> Nation; and ſome out of modeſty diſtruſt their own parts; all theſe commonly reſign up themſelves, and are led implicitly by ſuch as they have once an eſteem of: but wiſe Men will never take any thing of moment upon truſt, but will labour, till maſters of it, and then as it deſerves either reject or approve and encourage it.</p>
+            <p n="96">96. <hi>Whether 'tis poſſible to diſ<g ref="char:EOLhyphen"/>cover by the <g ref="char:V">Ʋ</g>rine, that the Pati<g ref="char:EOLhyphen"/>ent keeps a Coach?</hi>
+            </p>
+            <p>Tho the inſpection of Urines is of great uſe to a Phyſician, by which much may be diſcern'd for the benefit of the Patient, and therefore not fit to be laid aſide; Yet all, that fooliſh People inquire after and expect, is as far from being thereby known, as whe<g ref="char:EOLhyphen"/>ther the Patient keeps Mares or Horſes for their Coach.</p>
+            <p n="97">
+               <pb n="91" facs="tcp:108041:48"/>97. <hi>Whether is the more deſirea<g ref="char:EOLhyphen"/>ble qualification in a Phyſician, skill or the uſual Policy exerciſed in Practice?</hi>
+            </p>
+            <p>The firſt makes a Doctor able to ſerve his Patient; the laſt hin<g ref="char:EOLhyphen"/>ders him from being willing, ex<g ref="char:EOLhyphen"/>cept when he finds it his intereſt; therefore (when it appears bet<g ref="char:EOLhyphen"/>ter for him to let Patients die their own way with comfortable Cordials; or at leaſt to ſtruggle with the Diſeaſe without true help to the manifeſt hazard of their Lives, than to ſave them with Medicines in Taſte, Opera<g ref="char:EOLhyphen"/>tion or their, prejudice diſagreable to their Humours and Fancy) his Policy makes his skill and integri<g ref="char:EOLhyphen"/>ty to ſubmit to his intereſt, and to preſcribe ſomething, tho very inſignificant, to amuſe the Friends,
+<pb n="92" facs="tcp:108041:49" rendition="simple:additions"/> that they may not think him careleſs and idle; and then fight Dog fight Bear: fight Nature fight Diſeaſe; and, if it ſucceeds well, the Phyſician hath the Cre<g ref="char:EOLhyphen"/>dit and the more Money, becauſe cures by Nature are not ſo ſoon wrought as by Art. And, if ill, he yet preſerves the Reputation of a Careful, Tender Hearted, Safe Doctor, and is not in the leaſt blamed.</p>
+            <p>This indeed is a common, but not a very honeſt way of pro<g ref="char:EOLhyphen"/>ceeding, occaſioned at firſt by the Patient's Folly, and continued after by the Doctor's Cunning, not eaſily tempted to Sacrifice his Reputation to the cenſures of an unthinking People, that do not, and hardly ever will, under<g ref="char:EOLhyphen"/>ſtand their own good.</p>
+            <p n="98">
+               <pb n="93" facs="tcp:108041:49"/>98. <hi>Whether the ſame Reaſon which perſuades many there is an Antidote againſt every Poiſon, may not as well convince them, there is a Remedy in Nature for every Evil: only we want skill to diſcover the Remedies, at leaſt, to apply them in due Seaſon.</hi>
+            </p>
+            <p n="99">99. <hi>Whether 'tis not ſafer for a Doctor to let his Patien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s die their own way with a gentle wrong Me<g ref="char:EOLhyphen"/>thod, than to endeavour to help them with a rough right one, and to miſs?</hi>
+            </p>
+            <p>'Tis very probable it is, for the gentle method diſpleaſeth none, and the Doctor, though he never endeavoured to ſave the Patient, ſtill continues his Inte<g ref="char:EOLhyphen"/>reſt and Credit in the Family, becauſe the Patient and Friends believe he did, not being able to judge; but on the other hand,
+<pb n="94" facs="tcp:108041:50"/> the Doctor, that endeavours to ſave, and miſſes, ſhall be eſteem<g ref="char:EOLhyphen"/>ed a murtherer, becauſe of the ſeeming violent Medicines uſed and be diſcarded and hated, though he uſed the beſt skill then known to ſave the Patient.</p>
+            <div type="proposal">
+               <pb n="95" facs="tcp:108041:50"/>
+               <head>A PROPOSAL For the better Securing of HEALTH, Intended in the Year, 1689. and ſtill ready to be Humbly offered to the Conſideration of the Honourable Houſes of Par<g ref="char:EOLhyphen"/>liament.</head>
+               <p>THe Bills of Mortality, as well as the many poor Diſ<g ref="char:EOLhyphen"/>eaſed, have given ſome a juſt oc<g ref="char:EOLhyphen"/>caſion
+<pb n="96" facs="tcp:108041:51"/> to Reflect on the great Numbers which Annually Die within the City of <hi>London,</hi> and parts adjacent, comprized in the Weekly Bills of Mortality; where<g ref="char:EOLhyphen"/>of very many, by God's Bleſſing upon the true Methods of the Art of Phyſick, and an early applica<g ref="char:EOLhyphen"/>tion for Help, might in all pro<g ref="char:EOLhyphen"/>bability have been preſerved a<g ref="char:EOLhyphen"/>live.</p>
+               <p>Therefore, in order to ſo good and great an End, it is humbly propoſed, that a more compleat practical Conſtitution of Phyſick according to the following Schem, may be upon rational Demonſtra<g ref="char:EOLhyphen"/>tion Eſtabliſhed; whereby Care may be taken, that all Sick, as well Poor as Rich, ſhall be Ad<g ref="char:EOLhyphen"/>viſed and Viſited, which needful, by Approved, Skillful Phyſicians,
+<pb n="97" facs="tcp:108041:51"/> and Surgeons; and furniſhed with neceſſary Medicines in all Diſea<g ref="char:EOLhyphen"/>ſes, for a ſmall yearly certain ſum Aſſeſſed upon each Houſe, not ex<g ref="char:EOLhyphen"/>ceeding for the greateſt Family, nor under for the meaneſt, that are not Objects of Charity: Which reſpective Sums will not be the third part of what is now ſpent, only in Apotheca<g ref="char:EOLhyphen"/>ries Bills in a Healthy Year. And for this every Individual Perſon of the Family, as well the Lodger and Servant; as Maſter, Miſtreſs and Children, ſhall, when there is occaſion, be ſufficiently accom<g ref="char:EOLhyphen"/>modated: Whereas many at pre<g ref="char:EOLhyphen"/>ſent miſerably periſh without the leaſt Care, and for want of time<g ref="char:EOLhyphen"/>ly and skilful Aſſiſtance. In ſhort, it's propoſed to ſerve all the Families, Rich and Poor, Lit<g ref="char:EOLhyphen"/>tle
+<pb n="98" facs="tcp:108041:52"/> and Great, within the City and parts adjacent, much better and cheaper than at preſent, with Viſits, Advice, Medicine, and Surgery.</p>
+               <p>It is alſo further humbly offered, That effectual Care be taken that the Laws already in being may be reviſed and amended, which provide for the Sale of wholſome Fleſh in the Markets; and that Bread may be well Baked; Wine not Sophiſticated; Beer well Brewed; and the Houſes and Streets well cleanſed from Dirt and Filth: All theſe being very common cauſes of Diſeaſes and Death.</p>
+            </div>
+            <div type="list_of_members">
+               <pb n="99" facs="tcp:108041:52"/>
+               <head>This Conſtitution may conſiſt of the following Members, more or few<g ref="char:EOLhyphen"/>er, as the City Occaſions and Ne<g ref="char:EOLhyphen"/>ceſſities may require.</head>
+               <p>Firſt, <hi>Ten Noble Curatores, both to Protect and viſit the College.</hi>
+               </p>
+               <list>
+                  <head>Secondly, <hi>Phyſicians.</hi>
+                  </head>
+                  <item>One Super-Intendent or Preſident.</item>
+                  <item>Two Sub-Intendents.</item>
+                  <item>Three Senior Heads of the College</item>
+                  <item>Four Junior Heads.</item>
+                  <item>Fourteen Senior Viſitors.</item>
+                  <item>Seven Principal Secretaries.</item>
+                  <item>Fourteen Junior Viſitors.</item>
+                  <item>Seven Sub-ſecretaries.</item>
+                  <item>Forty two Chief Itinerants.</item>
+                  <item>Forty nine Junior Itinerants.</item>
+                  <pb n="100" facs="tcp:108041:53"/>
+                  <item>Seven Senior Amanuenſes.</item>
+                  <item>Fourteen Junior Amanuenſes. <hi>In all One Hundred Sixty Four.</hi>
+                  </item>
+               </list>
+               <p>Of this Number, beſides the three Intendents in the chief Col<g ref="char:EOLhyphen"/>lege in <hi>Warwick-lane,</hi> there will be Twenty Three Phyſicians more: As alſo Twenty Three in each other the Six Colleges. Se<g ref="char:EOLhyphen"/>ven Colleges being thought at preſent more than ſufficient to ſerve the Bills of Mortality, with Convenience and Eaſe to the In<g ref="char:EOLhyphen"/>habitants thereof: In each of which Colleges there are as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <list>
+                  <item>One Maſter, Head or Principal.</item>
+                  <item>Two Senior Viſitors.</item>
+                  <item>Two Junior Viſitors.</item>
+                  <pb n="101" facs="tcp:108041:53"/>
+                  <item>One Principal Secretary.</item>
+                  <item>One Sub-ſecretary.</item>
+                  <item>Six Senior Itinerants.</item>
+                  <item>Seven Junior Itinerants.</item>
+                  <item>One Senior Amanuenſis.</item>
+                  <item>Two Junior Amanuenſes. <hi>In all Twenty Three.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The convenient Places for the Seven Colleges may be</hi>
+                  <list>
+                     <item>1. The Preſent College.</item>
+                     <item>2. <hi>Lincolns-Inn-Fields.</hi>
+                     </item>
+                     <item>3. Near <hi>Charing-Croſs.</hi>
+                     </item>
+                     <item>4. Near the <hi>Poultry.</hi>
+                     </item>
+                     <item>5. <hi>Southwark</hi> near the Hoſpital.</item>
+                     <item>6. Near <hi>Biſhops-gate.</hi>
+                     </item>
+                     <item>7. In or about <hi>Goodmans-fields.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Which places are to be pub<g ref="char:EOLhyphen"/>liſhed in Print about a Fortnight before the Settlement, that all
+<pb n="102" facs="tcp:108041:54"/> may know where to apply for help.</p>
+               <list>
+                  <head>Thirdly, <hi>Chirurgeons.</hi>
+                  </head>
+                  <item>One Maſter.</item>
+                  <item>One Deputy.</item>
+                  <item>Seven Wardens.</item>
+                  <item>Twenty Eight Aſſiſtants.</item>
+                  <item>Fifty Six Mates.</item>
+                  <item>Twenty Eight Junior Mates.</item>
+               </list>
+               <p>
+                  <hi>In all One Hundred Twenty One.</hi>
+               </p>
+               <p>Of this Number, beſides the Maſter and Deputy, at the chief College, there are Seventeen in each of the Colleges, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>One Warden.</item>
+                  <item>Four Aſſiſtants.</item>
+                  <item>Eight Mates.</item>
+                  <item>Four Junior Mates.</item>
+               </list>
+               <p>
+                  <hi>In all Seventeen.</hi>
+               </p>
+               <pb n="103" facs="tcp:108041:54"/>
+               <p>Some of which, beſides Chi<g ref="char:EOLhyphen"/>rurgery, ſhall be skilful in the practice of Midwifry, cutting for the Stone, reducing Diſlocations, and drawing Teeth in each Col<g ref="char:EOLhyphen"/>lege.</p>
+               <list>
+                  <head>Fourthly, <hi>Apothecaries.</hi>
+                  </head>
+                  <item>One Maſter.</item>
+                  <item>One Deputy.</item>
+                  <item>Seven Wardens.</item>
+                  <item>Fourteen Aſſiſtants.</item>
+                  <item>Forty two Mates.</item>
+                  <item>Forty two Journey-men.</item>
+                  <item>Forty two Sub-Journey-men.</item>
+               </list>
+               <p>
+                  <hi>In all One Hundred Forty Nine.</hi>
+               </p>
+               <p>Of this Number, beſides the Ma<g ref="char:EOLhyphen"/>ſter and Deputy at the chief Col<g ref="char:EOLhyphen"/>lege, there are Twenty one in each College, <hi>viz.</hi>
+               </p>
+               <list>
+                  <pb n="104" facs="tcp:108041:55"/>
+                  <item>One Warden.</item>
+                  <item>Two Aſſiſtants.</item>
+                  <item>Six Mates.</item>
+                  <item>Six Journey-Men.</item>
+                  <item>Six Sub-Journey-men.</item>
+               </list>
+               <p>
+                  <hi>In all Twenty One.</hi>
+               </p>
+               <p>If the Number of any Exceeds the Inhabitants Neceſſities, it may be (as they die out) leſſen<g ref="char:EOLhyphen"/>ed, by not ſupplying: But if not ſufficient, it may be Augmented, ſo that few or none of the pro<g ref="char:EOLhyphen"/>feſſion may receive injury by this improvement; but all if poſſible ſome benefit.</p>
+            </div>
+            <div type="inducement">
+               <pb n="105" facs="tcp:108041:55"/>
+               <head>Inducement for this New E<g ref="char:EOLhyphen"/>ſtabliſhment of Phyſick.</head>
+               <p n="1">I. TO preſerve Health and ſave Lives, is always a Publick Good, but more eſpeci<g ref="char:EOLhyphen"/>ally in time of War.</p>
+               <p n="2">II. That Medicine is highly uſeful to thoſe great Ends, is and has been always the general Judg<g ref="char:EOLhyphen"/>ment of Mankind.</p>
+               <p n="3">III. That every Good <hi>Quo Communius eo Melius;</hi> but that as Phyſick is now managed, not on<g ref="char:EOLhyphen"/>ly the very Poor, but meaner ſort of Tradeſmen and their Families, Servants, and Miſers, deterr'd by Phyſicians Fees, and Apothecaries Bills, have little or no Benefit by Phyſick.</p>
+               <p n="4">
+                  <pb n="106" facs="tcp:108041:56"/>IV. That by theſe means, to<g ref="char:EOLhyphen"/>gether with the want of timely and frequent Viſits, many die yearly that might be preſerved; and Epidemical and Contagious Diſtempers and Chronical Diſea<g ref="char:EOLhyphen"/>ſes ariſe and are propagated.</p>
+               <p n="5">V. That Phyſicians and Chi<g ref="char:EOLhyphen"/>rurgeons may (and poſſible ma<g ref="char:EOLhyphen"/>ny do) having no Check, or Su<g ref="char:EOLhyphen"/>perviſors, for Lucre ſake, prolong Cures, to the hazard of Life; and by new Experiments upon their own ſingle Judgment deſtroy ma<g ref="char:EOLhyphen"/>ny.</p>
+               <p n="6">VI. That Apothecaries may be careleſs in their Mixtures, or Un<g ref="char:EOLhyphen"/>skilful; or may Adminiſter things improper or decayed, or tire their Patients with needleſs and nauſe<g ref="char:EOLhyphen"/>ous Medicines for their own Ad<g ref="char:EOLhyphen"/>vantage.</p>
+               <p n="7">
+                  <pb n="107" facs="tcp:108041:56"/>VII. Mountebanks, and cheats in Phyſick, are found by Experi<g ref="char:EOLhyphen"/>ence, to conduce extreamly to the Ruin of Peoples Healths, and loſs, oft-times, of their Lives, as well as of their Money.</p>
+               <p n="8">VIII. That by this Conſtitu<g ref="char:EOLhyphen"/>tion all thoſe Ills will be prevent<g ref="char:EOLhyphen"/>ed, all will have equal Help and Benefit: All will apply in time, ſince they hope for Cure without fear of Charge: Diſeaſes taken early more eaſily removed: Fre<g ref="char:EOLhyphen"/>quent Viſits will be mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which in acute Diſeaſes are moſt neceſ<g ref="char:EOLhyphen"/>ſary; changes therein being of<g ref="char:EOLhyphen"/>ten ſo great and ſudden, that life is frequently loſt for want of a timely Viſit. Conſultations will be candid, and without Paſſion or Deſign, and to be had when neceſſary, tho of the whole Facul<g ref="char:EOLhyphen"/>ty,
+<pb n="108" facs="tcp:108041:57"/> in difficult caſes: Medicines publickly and faithfully prepared will only be given: And Moun<g ref="char:EOLhyphen"/>tebanks, with ſuch others, will hereby ſink of themſelves, with<g ref="char:EOLhyphen"/>out Law or Trouble.</p>
+               <p n="9">IX. Nothing will be here con<g ref="char:EOLhyphen"/>cealed, that in its own Nature re<g ref="char:EOLhyphen"/>quires not Secrecy. No Mans Ig<g ref="char:EOLhyphen"/>norance or Negligence can here be prejudicial, for the Conſtitution directs all, inquires into and Su<g ref="char:EOLhyphen"/>perviſes all.</p>
+               <p n="10">X. Phyſick and Chirurgery will be extreamly improv'd, and in a little time, by the multitude of Experiments, recording of Ob<g ref="char:EOLhyphen"/>ſervations, and by mutual and can<g ref="char:EOLhyphen"/>did Aſſiſtance of the Members, come near to a Demonſtration.</p>
+               <p n="11">XI. The Members of both Houſes of Parliament as well as
+<pb n="109" facs="tcp:108041:57"/> all other Strangers, with their Fa<g ref="char:EOLhyphen"/>milies, tho not Houſe-keepers when in Town, will be attended <hi>Gratis:</hi> And indeed all the Inha<g ref="char:EOLhyphen"/>bitants of every Houſe, for the ſmall Rate charged thereon, Vi<g ref="char:EOLhyphen"/>ſits, Phyſick, and Chirurgery therein included.</p>
+               <p n="12">XII. The Advantages of this Conſtitution may be immediately extended to the great Benefit both of the Navy and Army.</p>
+               <p n="13">XIII. The Improvement of Health, and Preſervation of Life, Encreaſes People, and that Aug<g ref="char:EOLhyphen"/>ments Conſumption, Trade, Pow<g ref="char:EOLhyphen"/>er and Wealth. And many Fo<g ref="char:EOLhyphen"/>reigners will repair hither for Re<g ref="char:EOLhyphen"/>medy, when incurable abroad, which will alſo improve Trade.</p>
+               <p n="14">XIV. The Propoſer is ſenſi<g ref="char:EOLhyphen"/>ble that many Objections will be
+<pb n="110" facs="tcp:108041:58"/> raiſed by Prejudice, Intereſt, and for want of a true Information of the Nature, and Tendency of this Conſtitution; all which he is rea<g ref="char:EOLhyphen"/>dy to anſwer, and hope the Pub<g ref="char:EOLhyphen"/>lick Benefit will outweigh all bye, and little Ends.</p>
+               <p n="15">XV. The regulation of the Practice of Phyſick, to make it more Beneficial and leſs Charge<g ref="char:EOLhyphen"/>able, doth as properly belong to the conſideration of Parliament, as Divinity, Law, State or Trade, all which daily fall under their Cognizance.</p>
+            </div>
+         </div>
+         <div type="appendix">
+            <pb n="111" facs="tcp:108041:58"/>
+            <head>AN APPENDIX TO THE QUERIES.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>SOme matters relating to the preceding Queries, in order to their better Illuſtration, ha<g ref="char:EOLhyphen"/>ving been omitted are thought fit to be added here by way of Ap<g ref="char:EOLhyphen"/>pendix. As firſt, to explain fur<g ref="char:EOLhyphen"/>ther the 20th. Query, Either Vo<g ref="char:EOLhyphen"/>mits can cure the Diſeaſes that no<g ref="char:EOLhyphen"/>thing elſe can, or they cannot? If they can, then Infants, old and weak muſt take them in ſuch Diſ<g ref="char:EOLhyphen"/>eaſes
+<pb n="112" facs="tcp:108041:59"/> as well as the ſtrong, or die: If they cannot, then are Phyſicians much to blame that ever gave them to the Strong, any more than to the Weak: For if the Weak can eſcape dying without them, why not the Strong? If the Strong cannot, why ſhould we expect the Weak ſhould? <hi>Second<g ref="char:EOLhyphen"/>ly,</hi> To clear the Twenty Third Query, may be conſidered all the ways, by which 'tis poſſible Vo<g ref="char:EOLhyphen"/>mits can do any miſchief, which are, either the Action of Vomit<g ref="char:EOLhyphen"/>ing, or the manner of its Opera<g ref="char:EOLhyphen"/>tion; the evil property of the Me<g ref="char:EOLhyphen"/>dicine; the matter Vomitted; or laſtly, the wrong Application. As to the firſt, there can be no more danger in the Operation of a Vomit, than there is in vomitting without one, the force,
+<pb n="113" facs="tcp:108041:59"/> ſtrain and violence being the ſame, when the matter Vomitted is ſo; beſides, if the Action were ſo dangerous, 'tis not probable that kind Nature would have order'd that young Infants ſhould be ſo ſubject to it, and breeding Wo<g ref="char:EOLhyphen"/>men being the weaker Sex in a tender condition, and whilſt the <hi>Faetus</hi> is alſo weak, wherefore the Action ſingly can never be Dangerous. As to the evil pro<g ref="char:EOLhyphen"/>perty of the Medicines, <hi>Antimo<g ref="char:EOLhyphen"/>ny</hi> will be moſt ſuſpected, for <hi>Carduus, Groundſel, Thea,</hi> and the like, will be by all acquitted. <hi>An<g ref="char:EOLhyphen"/>timony</hi> therefore, the moſt uſual of all Vomits, we find highly commended by many good Au<g ref="char:EOLhyphen"/>thors. It is ſo innocent that 'tis u<g ref="char:EOLhyphen"/>ſed in Diet Drinks with great ad<g ref="char:EOLhyphen"/>vantage, and is frequently given
+<pb n="114" facs="tcp:108041:60"/> to fatten Horſes, Hogs, and Pul<g ref="char:EOLhyphen"/>lein, nor is there any thing in the Preparation of <hi>Crocus Metallorum, vitrum Antimonij</hi> or <hi>Mercurius vi<g ref="char:EOLhyphen"/>tae</hi> in its own Nature Poiſonous; and Experience daily ſhews that they do abundance of Good. As to the matter Vomited, it muſt be either injurious, by robbing Nature of ſo much Good Humour, or by wounding ſome parts in its Paſſage with its ill Quality; if the firſt, it muſt have been very un<g ref="char:EOLhyphen"/>adviſedly given, therefore ſcarce to be ſuppoſed; if the laſt, it muſt certainly have done more hurt to have continued where it lodged before, than it could in paſſing only; but of this if an inſtance could be found, it might give ſome Satisfaction: For a thouſand things are imagined
+<pb n="115" facs="tcp:108041:60" rendition="simple:additions"/> which never were nor can be, and 'tis ſuch high flights above com<g ref="char:EOLhyphen"/>mon Senſe which do much in<g ref="char:EOLhyphen"/>jury to the Art of Phyſick. As to a wrong application of Vomits, it muſt be agreed that Fools are not to jeſt with Edge Tools; but they are the better for Artiſts for being ſharp. Who would endure to be ſhav'd by a good Barber with a blunt Razor, which cannot be too ſharp in a skilful Hand? there<g ref="char:EOLhyphen"/>fore if none but skilful Phyſicians fairly approved were permitted to Practiſe, there would be no danger of ſuch miſtakes. And laſtly, the 24th. Query may be further confirm'd by Experience, that Vomits generally cure, not only ſuch Diſeaſes as other Re<g ref="char:EOLhyphen"/>medies, but often reach thoſe Humours which no other Medi<g ref="char:EOLhyphen"/>cine
+<pb n="116" facs="tcp:108041:61" rendition="simple:additions"/> can, and conſequently cure many Diſeaſes beyond the power of others; for they perform what ever others can, and ſomething more.</p>
+            <p>The Author thinks himſelf un<g ref="char:EOLhyphen"/>der an Obligation to add ſome<g ref="char:EOLhyphen"/>thing in the nature of an Apolo<g ref="char:EOLhyphen"/>gy, to acquaint the Reader, that 'tis far from his intention to give juſt offence to any, much leſs to the Phyſicians, by publiſhing theſe Queries; but aiming at the Publick Service, he is deſirous to provoke ſome Learned and Ex<g ref="char:EOLhyphen"/>perienced Phyſicians to inform the World better, to which the Author will thankfully ſubmit, for <hi>amicus Plato, amicus Socrates, ſed magis amica veritas;</hi> or elſe that they would pleaſe to reform themſelves, that ſo the Nation
+<pb n="117" facs="tcp:108041:61"/> may reap ſome benefit by theſe inquiries.</p>
+            <p>He could very well have been contented at this time not to have appeared in Print, had not the preſent Practice of Phyſick dif<g ref="char:EOLhyphen"/>fer'd ſo much, from what in his many years Experience he hath obſerved both here and beyond Sea; and <hi>toto coelo</hi> ſeemed to deviate from the ancient Rules and Pra<g ref="char:EOLhyphen"/>ctice, without the leaſt viſible a<g ref="char:EOLhyphen"/>mendment by any ſhorter, ſafer or more certain methods of Healing. Nay, had not many lives been apparently loſt by the preſent tender hearted practice, who, it may be reaſonably preſumed, had been ſtill alive, had truer methods been uſed, as well as the Crimi<g ref="char:EOLhyphen"/>nals laſt Executed might have been ſo, had they not then ſuf<g ref="char:EOLhyphen"/>fer'd
+<pb n="118" facs="tcp:108041:62"/> notwithſtanding God's time was certainly come, as the good Women ſay: But, if right courſes had been taken with both the Pa<g ref="char:EOLhyphen"/>tient and the Criminal, they might have been ſtill alive, and God's time would not have been yet come: For, as God decrees the End, he likewiſe orders the right means without a miracle to lead to ſuch an End, and they ſhall be uſed, and wrong means ſhall not, when he ſo pleaſeth. The Au<g ref="char:EOLhyphen"/>thor therefore thought it his duty to God and Man to caſt into the common Treaſury, tho it were but this mite, and to expoſe theſe few Sheets to the cenſure of the Candid Reader, who may draw what conſequences he pleaſe from the manner they are propoſed, and either grant or deny, ſo it be
+<pb n="119" facs="tcp:108041:62"/> with plain and ſolid Reaſons, that truth may appear, and that the publick as well as ſome Phyſicians, yet unreſolv'd in the ſubject of ſeveral of thoſe Queries, may reap the advantage.</p>
+            <p>He is not inſenſible that 'tis more advantageous to be Hetero<g ref="char:EOLhyphen"/>dox with a multitude than Or<g ref="char:EOLhyphen"/>thodox alone, and that it is much more gainful for a Phyſician to win the good Opinion by little complacencies of the tender heart<g ref="char:EOLhyphen"/>ed Nurſekeepers, timorous Pati<g ref="char:EOLhyphen"/>ents, and pratling Ladies, than to recover the Healths and ſave the lives of Multitudes; for if you have never ſo good ſucceſs 'tis an eaſie matter for them to ſay, if they bear you ill will, 'tis no more than what every body could do; or, It was a ſmall mat<g ref="char:EOLhyphen"/>ter,
+<pb n="120" facs="tcp:108041:63"/> the Patient would have reco<g ref="char:EOLhyphen"/>vered however, or their time was not come.</p>
+            <p>And when they reſolve to excuſe a Friend, that hath ill ſucceſs, they'll tell you, he did all, that Man could do, was mighty tender, ſafe and careful, the Patients time was come and none could have pre<g ref="char:EOLhyphen"/>vented it, which excuſes are cur<g ref="char:EOLhyphen"/>rent with the World in matters they are not well acquainted with, ſo that whoever thinks to recom<g ref="char:EOLhyphen"/>mend himſelf by his skill, will find himſelf as much deceived as Sir <hi>William Petty,</hi> who, after he had qualified himſelf for the pra<g ref="char:EOLhyphen"/>ctice as well as moſt, that ever undertook it, found when he be<g ref="char:EOLhyphen"/>gan it, there was another Leſſen to be Learnt, how to humour his Patient's Fancy, and not anſwer
+<pb n="121" facs="tcp:108041:63"/> their underſtandings, which com<g ref="char:EOLhyphen"/>monly in moſt Perſons is lockt up for hereafter. 'Tis hard to ſtrive againſt the Stream, when 'tis ſo eaſie to ſwim with it.</p>
+            <p>The deſign of theſe Queries is not utterly to condemn the uſe of ſteel or the Jeſuits Pouder, and other ſpecificks or methods, but to recommend and revive the old practice of Evacuation, as much more certain, effectual and agreeable to Art, and alſo to en<g ref="char:EOLhyphen"/>deavour to remove the too fre<g ref="char:EOLhyphen"/>quent groundleſs Fears and Aver<g ref="char:EOLhyphen"/>ſion to ſuch excellent Remedies, for every thing God made hath its proper uſe for the benefit of Man, and nothing was made in vain.</p>
+            <p>He hath the more inſiſted upon Vomits in this ſmall Treatiſe, be<g ref="char:EOLhyphen"/>cauſe,
+<pb n="122" facs="tcp:108041:64"/> they are ſo much oppoſed, and yet ſo abſolutely neceſſary for recovering that Health, and ſa<g ref="char:EOLhyphen"/>ving thoſe lives which nothing elſe can do ſo certainly, eſpecially in peracute Caſes, where but little time is to be loſt. And he hopes there are but very few Queries here propoſed, but in order to the ſervice of the Publick, he having often met with juſt cauſe to wiſh the inconveniences, they hint at, re<g ref="char:EOLhyphen"/>form'd. Farewell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge <hi>7.</hi> l. <hi>19. r.</hi> critical. <hi>p. 10.</hi> l. <hi>6 r.</hi> tende <hi>p. 13.</hi> l. <hi>4. r.</hi> and, before ſince. l. <hi>6.</hi> after it, <hi>r.</hi> whether 'tis not fit to be tryed. <hi>p. 63.</hi> l. <hi>14.</hi> dele both. <hi>p. 65.</hi> l. <hi>20.</hi> for and <hi>r.</hi> under. <hi>p. 70.</hi> l. <hi>6.</hi> after can <hi>r.</hi> not.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:108041:64"/>
+            <head>The CONTENTS.</head>
+            <list>
+               <head>A</head>
+               <item>AGes all may purge, <hi>Page 20, 22</hi>
+               </item>
+               <item>Alteratives can never cure, <hi>Page 3. 6</hi>
+               </item>
+               <item>Anatomy and Aſtrology uſeleſs to the Pra<g ref="char:EOLhyphen"/>ctice of Phyſick, <hi>Page 65.</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>Bleeding muſt be preceded by Purging, <hi>Page 32 81,</hi>
+                  <list>
+                     <item>muſt not begin cures. <hi>Page 81</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Blood makes Animal Spirits, <hi>Page 81, 82</hi>
+                  <list>
+                     <item>may be alter'd in the Maſs but not eve<g ref="char:EOLhyphen"/>ry part changed, <hi>Page 3, 6</hi>
+                     </item>
+                     <item>not all corrupted, <hi>Page 5</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>Cauſe of Diſeaſes, <hi>Page 2</hi>
+               </item>
+               <item>Cure of Diſeaſes, <hi>Page 5. 31. 33. 41, 42. 55. 78.</hi>
+                  <list>
+                     <item>not by Alteratives, <hi>Page 3, 4</hi>
+                     </item>
+                     <item>ſometimes by Nature, <hi>Page 7</hi>
+                     </item>
+                     <item>not to be delay'd, <hi>Page 49</hi>
+                     </item>
+                     <item>not without pain, <hi>Page 51</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Cordials the beſt are Purges, <hi>Page 18</hi>
+                  <list>
+                     <item>ſpeedily ſupply Spirits, <hi>Page 19</hi>
+                     </item>
+                     <item>force Sweat or <g ref="char:V">Ʋ</g>rine, <hi>Page 19</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Cenſures V. judging,</item>
+            </list>
+            <list>
+               <pb facs="tcp:108041:65"/>
+               <head>D</head>
+               <item>Diſeaſes cauſed by Error in the Six Non-Naturals, <hi>Page 2</hi>
+                  <list>
+                     <item>by change of good into bad Humours, <hi>Page 2</hi>
+                     </item>
+                     <item>weaken Patients, <hi>Page 14</hi>
+                     </item>
+                     <item>daily ſupplied, <hi>Page 15. 30. 31. 40</hi>
+                     </item>
+                     <item>vary often in their courſe, <hi>Page 44</hi>
+                     </item>
+                     <item>are poiſon bred in the Body, <hi>Page 8, 9</hi>
+                     </item>
+                     <item>increaſe the weakneſs firſt made by them, <hi>Page 14</hi>
+                     </item>
+                     <item>never cured without Evacuation, <hi>Page 7 22. 24.</hi>
+                     </item>
+                     <item>kill for the moſt part, Medicines ſel<g ref="char:EOLhyphen"/>dom or never, <hi>Page 25</hi>
+                     </item>
+                     <item>muſt be expoſed as Poiſon, <hi>Page 8, 9</hi>
+                     </item>
+                     <item>greater evil than Evacuation, <hi>Page 14. 29</hi>
+                     </item>
+                     <item>are the ill humours, not the fever, <hi>Page 49</hi>
+                     </item>
+                     <item>recovers by delay. <hi>Page 15, 30, 33, 49, 55</hi>
+                     </item>
+                     <item>cured by Nature, <hi>Page 7</hi>
+                        <list>
+                           <item>not by Alteratives, <hi>Page 3. 4</hi>
+                           </item>
+                           <item>by proportionable Evacuation, <hi>Page 42</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>appear not as ſoon as cauſed, <hi>Page 78</hi>
+                     </item>
+                     <item>too mighty for the Spirits <hi>Page 19</hi>
+                     </item>
+                     <item>Delays dangerous, <hi>Page 15, 30, 49, 55</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>Errors in the Six Non-naturals cauſe of Diſeaſes <hi>Page 2.</hi>
+               </item>
+               <item>Evacuation V. purging,
+<list>
+                     <pb facs="tcp:108041:65"/>
+                     <item>muſt be well underſtood. <hi>Page 10.</hi>
+                     </item>
+                     <item>weakens at preſent and benefits for the future. <hi>Page 18</hi>
+                     </item>
+                     <item>does good and cannot hurt, <hi>Page 24. 25</hi>
+                     </item>
+                     <item>no enemy to weakneſs, <hi>Page 13. 14</hi>
+                     </item>
+                     <item>early, <hi>Page 13. 56</hi>
+                     </item>
+                     <item>ſtrong beſt for weak Patients, <hi>Page 15</hi>
+                     </item>
+                     <item>agrees with all circumſtances and a<g ref="char:EOLhyphen"/>ges, <hi>Page 21</hi>
+                     </item>
+                     <item>natural, <hi>Page 7. 24</hi>
+                     </item>
+                     <item>ſaves the Spirits the labour of curing. <hi>Page 19</hi>
+                     </item>
+                     <item>rarely kills, but that which reſts behind <hi>Page 27.</hi>
+                     </item>
+                     <item>never ſo bad as the diſeaſe <hi>Page 25</hi>
+                     </item>
+                     <item>muſt ripe or it does no good, <hi>Page 55</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Eruptions rarely kill, <hi>&amp;c. Page 27</hi>
+               </item>
+               <item>Exceſs is poiſon, <hi>Page 9</hi>
+               </item>
+               <item>Evil things have charming aſpects, <hi>&amp;c. Page 51</hi>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>Fever fit is not the Diſeaſe, but the cure, <hi>Page 34</hi>
+                  <list>
+                     <item>how cured, <hi>Page 35. 81</hi>
+                     </item>
+                     <item>quieted ſometimes tho not cured, <hi>Page 36</hi>
+                     </item>
+                     <item>begins ofteneſt in the <hi>primae viae, Page 80</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Fluids good preſerve Health, <hi>Page 44</hi>
+                  <list>
+                     <item>bad deſtroy it, <hi>Page 45</hi>
+                     </item>
+                     <item>good or bad furniſh Spirits according<g ref="char:EOLhyphen"/>ly, <hi>Page 45</hi>
+                     </item>
+                     <pb facs="tcp:108041:66"/>
+                     <item>ſupplied by Six Non-Naturals, <hi>Page 45</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Fancy is a Diſeaſe, <hi>Page 47</hi>
+               </item>
+               <item>Feeding muſt agree with labour, <hi>Page 55</hi>
+               </item>
+               <item>Flux is not the Diſeaſe, but the effect, <hi>Page 57</hi>
+                  <list>
+                     <item>cauſe muſt be removed, <hi>Page 57</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Ferments helps purging, <hi>Page 6</hi>
+                  <list>
+                     <item>the effect of purges, <hi>Page 19</hi>
+                     </item>
+                     <item>is a prepared matter lodged in the bo<g ref="char:EOLhyphen"/>dy, <hi>Page 44</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Gripes proceed from the Diſeaſe not the Medicine, <hi>Page 30. 54</hi>
+               </item>
+               <item>Gentle medicines ineffectual, <hi>Page 30. 73</hi>
+               </item>
+               <item>Good things no inviting outſide, <hi>Page 51</hi>
+                  <list>
+                     <item>made bad by our folly, <hi>Page 9, 23</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Government fit judge of Phyſicians and Phyſick, <hi>Page 69, 70</hi>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>Humours changed to bad cauſe Diſeaſes, <hi>Page 2</hi>
+                  <list>
+                     <item>bad muſt not be kept, <hi>Page 58</hi>
+                     </item>
+                     <item>good muſt not be waſted, <hi>Page 48</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Health preſerved, <hi>Page 44, 51, 53, 52</hi>
+                  <list>
+                     <item>recovered without art, <hi>Page 4, 17, 58</hi>
+                     </item>
+                     <item>upon any terms, <hi>Page 50, 30</hi>
+                     </item>
+                     <item>needs no Phyſick, <hi>Page 48. 49</hi>
+                     </item>
+                     <item>is a jewel, <hi>Page 52</hi>
+                     </item>
+                     <item>muſt run no hazards, <hi>Page 16. 55. 88. 91</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Hazard nothing in Phyſick if poſſible, <hi>Page 15 17,</hi>
+               </item>
+               <pb facs="tcp:108041:66"/>
+               <item>Hopes laſts with life, <hi>Page 46. 47. 49</hi>
+               </item>
+               <item>Hurtful things have inviting appearan<g ref="char:EOLhyphen"/>ces, <hi>Page 51</hi>
+               </item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>Judging Phyſicians, all are not fit for, <hi>Page 11, 12, 88</hi>
+                  <list>
+                     <item>wrong is dangerous, <hi>Page 11, 12, 88</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Jeſuits Powder bad, <hi>Page 34, 35, 36, 80</hi>
+               </item>
+               <item>Intervals long bad, <hi>Page 30</hi>
+               </item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>Life is a conſtant Flux, <hi>Page 4</hi>
+                  <list>
+                     <item>V. health muſt run no hazard without hope ſaved, <hi>Page 46, 47</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Ladys kind make bad Doctors <hi>Page 23</hi>
+               </item>
+               <item>Labour muſt anſwer Feeding, <hi>Page 54</hi>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>Medicines for need, not delight, <hi>Page 50</hi>
+                  <list>
+                     <item>dangerous ſeldom or never, <hi>Page 25, 29</hi>
+                     </item>
+                     <item>powerful ever better than gentle, <hi>Page 52, 53, 55</hi>
+                     </item>
+                     <item>violent, <hi>Page 22, 52. 56</hi>
+                     </item>
+                     <item>wrong or too late ſucceed ill, <hi>Page 66</hi>
+                        <list>
+                           <item>never bleſſed by God, <hi>Page 67</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>gentle ineffectual, <hi>Page 22, 30, 73</hi>
+                     </item>
+                     <item>muſt continue as long as the diſeaſe, <hi>Page 33</hi>
+                     </item>
+                     <item>not for the healthy, <hi>Page 48</hi>
+                     </item>
+                     <item>beneficial better than pleaſant, <hi>Page 49</hi>
+                     </item>
+                     <item>gripes not, but the diſeaſe <hi>Page 54, 55</hi>
+                     </item>
+                     <pb facs="tcp:108041:67"/>
+                     <item>food for the ſick, <hi>Page 58</hi>
+                     </item>
+                     <item>furniſhed by God, <hi>Page 58, 59</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>Non-Naturals cauſe of Diſeaſes <hi>Page 2</hi>
+                  <list>
+                     <item>of health <hi>Page 45</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Nurſe-keepers hurt with their kindneſs, <hi>Page 23</hi>
+               </item>
+               <item>Nature ſoon recovers, if not hindred, <hi>Page 17</hi>
+                  <list>
+                     <item>ſoon diſturbed, <hi>Page 43</hi>
+                     </item>
+                     <item>never cures ſo ſoon and well, as art, <hi>Page 92</hi>
+                     </item>
+                     <item>therefore not to be relyed on, <hi>Page 17</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Nouriſhment ſtrong bad for the weak, <hi>Page 23</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Poiſon never cured by Alteratives, <hi>Page 8</hi>
+                  <list>
+                     <item>whether any, <hi>Page 8</hi>
+                     </item>
+                     <item>what it is, <hi>Page 9</hi>
+                     </item>
+                     <item>bred in the body, <hi>Page 9</hi>
+                     </item>
+                     <item>the ſame with diſeaſes, <hi>Page 9</hi>
+                     </item>
+                     <item>muſt be expell'd, <hi>Page 9</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Phyſicians skill, <hi>Page 10. 59, 64</hi>
+                  <list>
+                     <item>Education, <hi>Page 60, 59. 65, 77</hi>
+                     </item>
+                     <item>faults and artifices, <hi>Page 29, 62, 63, 66, 67, 71. 78</hi>
+                     </item>
+                     <item>blamed without a cauſe, <hi>Page 10, 12, 68, 88</hi>
+                     </item>
+                     <item>to be judged by the Government, <hi>Page 69, 70</hi>
+                     </item>
+                     <item>beſt, who cures moſt, <hi>Page 61</hi>
+                     </item>
+                     <item>not to be lightly cenſured, <hi>Page 11, 12</hi>
+                     </item>
+                     <item>not to be eaſily diſcouraged, <hi>Page 11</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb facs="tcp:108041:67"/>
+               <item>Phyſical Art, <hi>Page 49, 59, 60, 65, 68</hi>
+                  <list>
+                     <item>practice to be</item>
+                     <item>learnt before the Theory, <hi>Page 60</hi>
+                     </item>
+                     <item>Practice to be gain'd by cunning tho without skill, <hi>Page 62. 71</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Plague, <hi>Page 37, 38, 39, 40</hi>
+               </item>
+               <item>Purging. V. Evacuation
+<list>
+                     <item>ſtrengthens more than Cordials, <hi>Page 18, 19</hi>
+                     </item>
+                     <item>not dangerous, <hi>Page 14, 19, 28</hi>
+                     </item>
+                     <item>with long intervals hath ſmall ſuc<g ref="char:EOLhyphen"/>ceſs, <hi>Page 30</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Patients haſt makes waſt, <hi>Page 33</hi>
+                  <list>
+                     <item>muſt take Phyſick, <hi>Page 58</hi>
+                     </item>
+                     <item>ſtrength muſt be duly conſidered, <hi>Page 73</hi>
+                     </item>
+                     <item>dies more of Diſeaſes than their cure, <hi>Page 79</hi>
+                     </item>
+                     <item>ſtrong kill'd by ſmall Diſeaſes, <hi>Page 15</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Primae viae</hi> firſt to be cleanſed, <hi>Page 32</hi>
+               </item>
+               <item>Pox ſmall, <hi>Page 7</hi>
+               </item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Reports falſe miſchievous to the Reporter <hi>Page 12</hi>
+               </item>
+               <item>Regions firſt. V. <hi>primae viae.</hi>
+               </item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Strength waſted by Diſeaſes, <hi>Page 16, 20</hi>
+                  <list>
+                     <item>according to the quantity of Animal Spirits, <hi>Page 45</hi>
+                     </item>
+                     <item>of Food pernicious to the ſick, <hi>Page 19, 20, 22</hi>
+                     </item>
+                     <item>which cannot bear a leſs evil can never a greater, <hi>Page 14</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb facs="tcp:108041:68"/>
+               <item>Stomach affected in moſt caſes, <hi>Page 31, 32</hi>
+               </item>
+               <item>Spirits, <hi>Page 19, 21, 45, 81, 82</hi>
+               </item>
+               <item>Soldiers and Seamen, <hi>Page 56</hi>
+               </item>
+               <item>Succeſs not ſufficient to judge by, <hi>Page 11</hi>
+                  <list>
+                     <item>conſtant may guide, <hi>Page 12</hi>
+                     </item>
+                     <item>attends right means, <hi>Page 66</hi>
+                     </item>
+                     <item>nev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r given by God to wrong means, <hi>Page 67</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Sweating ought to follow purging, <hi>Page 32</hi>
+               </item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>
+                  <hi>Vomits,</hi> Page 16, 23, 24, 25, 26, 27, 28 29, 31, 32, 35, 82.
+<list>
+                     <item>
+                        <hi>if not beſt of Medicines ought not to be uſed,</hi> Page 23</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Violent Medicines,</hi> Page 15, 30, 52, 53, 56</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>rine,</hi> Page 90</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>Weakneſs, <hi>Page 17, 21</hi>
+                  <list>
+                     <item>no objection to purging, <hi>Page 13, 14, 16</hi>
+                     </item>
+                     <item>comes from want of Spirits, <hi>Page 21</hi>
+                     </item>
+                     <item>increaſe by the Diſeaſe which made it, <hi>Page 14</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Weak Patients, <hi>Page 15, 17, 18, 21, 22</hi>
+                  <list>
+                     <item>the ſame Medicines as ſtrong but not the doſe, <hi>Page 16</hi>
+                     </item>
+                     <item>wants ſtrongeſt medicines, <hi>Page 15</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Weak Diſeaſes have kill'd ſtrong Patients, <hi>Page 15</hi>
+               </item>
+               <item>Women with child may take Vomits, <hi>Page 26, 29, 63.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:108041:68"/>
+         </div>
+      </back>
+   </text>
+</TEI>
